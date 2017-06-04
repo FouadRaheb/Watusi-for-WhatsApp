@@ -37,9 +37,11 @@ The all-in-one tweak for WhatsApp Messenger!
 * Enter your Apple ID email address when prompted 
 
 
+
   ![Screenshot 2](https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/images/2.png "Screenshot 2")
 
 * Enter your password when prompted 
+
 
 
   ![Screenshot 3](https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/images/3.png "Screenshot 3")
@@ -47,7 +49,7 @@ The all-in-one tweak for WhatsApp Messenger!
 * If you get an alert like the following, press "OK"
 
 
-  ![Screenshot 4](https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/images/3.png "Screenshot 4")
+  ![Screenshot 4](https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/images/4.png "Screenshot 4")
 
 * Wait for Cydia Impactor to finish and you will find the app installed on your device
 
