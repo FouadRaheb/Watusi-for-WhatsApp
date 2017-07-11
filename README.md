@@ -21,7 +21,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 #### Guide:
 
-* Download the IPA file from [here](https://mega.nz/#!wSx1SDoB!ZS0oAylMttpPhDZVEh26NGnTeq9WjW0B4eFLjkTOp-A) (WhatsApp 2.17.22, Watusi 1.0.8) and place it on your Desktop
+* Download the IPA file from [here](https://mega.nz/#!wSx1SDoB!ZS0oAylMttpPhDZVEh26NGnTeq9WjW0B4eFLjkTOp-A) (WhatsApp 2.17.31, Watusi 1.0.8) and place it on your Desktop
 
 * Download and run Cydia Impactor for your operating system from [here](http://www.cydiaimpactor.com)
 
