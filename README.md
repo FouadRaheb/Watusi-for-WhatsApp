@@ -7,7 +7,7 @@ The all-in-one tweak for WhatsApp Messenger!
 ### Download Links
 
 * **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version.
-* **Sideloading (No Jailbreak):** Download IPA file from [here](http://bit.ly/2gw0ZpV) (WhatsApp 2.17.51, Watusi 1.0.20) and follow the guide below
+* **Sideloading (No Jailbreak):** Download IPA file from [here](http://bit.ly/2yY4hh2) (WhatsApp 2.17.70, Watusi 1.0.26) and follow the guide below
 
 &nbsp;
 
@@ -25,7 +25,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * Download and run Cydia Impactor for your operating system from [here](http://www.cydiaimpactor.com)
 
-* Make sure no other WhatsApp with same bundle identifier (com.fouadraheb.watusi) is installed
+* Make sure no other WhatsApp with same bundle identifier (net.whatsapp.WhatsApp) is installed
 
 * Connect your iOS device and hit "Trust" if prompted so that your device appears in Cydia Impactor
 
