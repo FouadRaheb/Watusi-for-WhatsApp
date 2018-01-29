@@ -8,6 +8,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
+
 LINKS WILL BE ADDED SOON
 
 &nbsp;
