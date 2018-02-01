@@ -11,7 +11,7 @@
 We need to ssh into the device first, you can do that from the device itself or via a mac/pc.
 
 * If you're doing it via mac/pc, connect your idevice to the same Wi-Fi network and get its ip address from settings -> Wi-Fi -> information and then using a terminal run ```ssh root@ip_address```
-* If you're doing it on your device, download iTerminal from AppStore and connect by using `127.0.0.1` as IP Address, `root` for username and `alpine` for password field.
+* If you're doing it on your device, download iTerminal from AppStore and connect by using `127.0.0.1` as IP Address, port `2222`, `root` for username and `alpine` for password field.
 
 1. Install WatusiTools
 
