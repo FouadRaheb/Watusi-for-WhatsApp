@@ -6,7 +6,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ### Download Links
 
-* **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version.
+* **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version. (If you are on Electra Jailbreak for iOS 11.0 - 11.1.x check this [tutorial](http://bit.ly/WatusiElectra))
 * **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
 
   * Original - [WhatsApp: 2.18.20, Watusi: 1.0.37, Bundle ID: net.whatsapp.WhatsApp](https://mega.nz/#!MKAVVbpK!0c5A9xvb0ZCU4wQeUWjs5hi7x7kfWwpbrjDUxeOUXHc) 
