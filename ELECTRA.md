@@ -5,6 +5,9 @@
 - DO THIS AT YOUR OWN RESPONSIBILITY
 - I HAVE TESTED THE SCRIPTS ON AN IPHONE 6S AND IPAD PRO 10.5
 ```
+```diff
++ IF YOU ARE UPDATING THE TWEAKS, MAKE SURE YOU ALWAYS UPDATE WATUSITOOLS FIRST
+```
 
 # Install tweaks from terminal
 
@@ -47,7 +50,7 @@ If you don't want to run the script above, you can just download and copy the fi
 
 ### Installing WatusiTools
 
-##### Download .tar package from [here](http://cydia.f0u4d.com/electra/com.f0u4d.watusitools/package.tar) and extract it
+##### Download .zip package from [here](http://cydia.f0u4d.com/electra/com.f0u4d.watusitools/package.zip) and extract it
 
 * Copy `libWatusiTools.dylib` to `/usr/lib/libWatusiTools.dylib`
 * Copy `FRToolsAssets.bundle` to `/bootstrap/Library/Application Support/WatusiTools/FRToolsAssets.bundle`
@@ -55,7 +58,7 @@ If you don't want to run the script above, you can just download and copy the fi
 
 ### Installing Watusi
 
-##### Download .tar package from [here](http://cydia.f0u4d.com/electra/com.fouadraheb.watusi/package.tar) and extract it
+##### Download .zip package from [here](http://cydia.f0u4d.com/electra/com.fouadraheb.watusi/package.zip) and extract it
 
 * Copy `Watusi.dylib` to `/bootstrap/Library/SBInject/Watusi.dylib`
 * Copy `Watusi.plist` to `/bootstrap/Library/SBInject/Watusi.plist`
