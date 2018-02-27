@@ -1,4 +1,6 @@
-## THIS IS ONLY FOR iOS 11.x - 11.1.2 ON ELECTRA JAILBREAK
+## Electra 1.0+ is bundled with Cydia so you can install Watusi from BigBoss repo
+
+## THIS IS ONLY FOR iOS 11.x - 11.1.2 ON ELECTRA JAILBREAK PRE v1.0
 
 ```diff
 - I'M NOT RESPONSIBLE IF YOU ENDUP LOSING YOUR DATA/JAILBREAK
