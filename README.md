@@ -9,8 +9,8 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
 
-  * Original - [WhatsApp: 2.18.31, Watusi: 1.0.43, Bundle ID: net.whatsapp.WhatsApp](https://mega.nz/#!NfAC2RYK!1Eq1OM7tl1RH8NB_rsxdsq4V0U3pvWfxsXsMHOvAkTQ) 
-  * Duplicate - [WhatsApp: 2.18.31, Watusi: 1.0.43, Bundle ID: com.fouadraheb.watusi](https://mega.nz/#!gbp2XTzJ!QFHw_i_wsGQhDsbUh-NFsU5UFYbVk5GMU_PTpriC9pI) 
+  * Original - [WhatsApp: 2.18.41, Watusi: 1.0.45, Bundle ID: net.whatsapp.WhatsApp](https://mega.nz/#!5HQgBbzQ!XV_0WQxPZh4W4nse8UbhtHpsVCsnkGrFr_Fm_u1c0PE) 
+  * Duplicate - [WhatsApp: 2.18.41, Watusi: 1.0.45, Bundle ID: com.fouadraheb.watusi](https://mega.nz/#!MXIBkbbK!7ywV-Rc2edstnfqRDb44nmpWnFj7t13POSmA3ImdT2Y) 
 
 &nbsp;
 
@@ -28,7 +28,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * Download and run Cydia Impactor for your operating system from [here](http://www.cydiaimpactor.com)
 
-* Make sure no other WhatsApp with same bundle identifier (net.whatsapp.WhatsApp) is installed
+* Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose original IPA or com.fouadraheb.watusi for the duplicate)
 
 * Connect your iOS device and hit "Trust" if prompted so that your device appears in Cydia Impactor
 
