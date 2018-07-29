@@ -9,8 +9,8 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can either download it from BigBoss repo or add [http://cydia.f0u4d.com](http://cydia.f0u4d.com) to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
 
-  * Original - [WhatsApp: 2.18.61, Watusi: 1.0.49, Bundle ID: net.whatsapp.WhatsApp](https://mega.nz/#!5KARzLqS!57nZzBkExIKOLLn87ZNNkY3TleILafW6o-nBnXCRKV8) 
-  * Duplicate - [WhatsApp: 2.18.61, Watusi: 1.0.49, Bundle ID: com.fouadraheb.watusi](https://mega.nz/#!VS4VzIKR!BwOGErtafUQzyfsrtwLJphVU1C0YGHklCU8sWX18Taw) 
+  * Original - [WhatsApp: 2.18.80, Watusi: 1.0.57, Bundle ID: net.whatsapp.WhatsApp](https://mega.nz/#!pGoEAQQZ!lH5RgRD-vD-I2Le58i-zpQltGr0eRGm4ygApTi1KoTU) 
+  * Duplicate - [WhatsApp: 2.18.80, Watusi: 1.0.57, Bundle ID: com.fouadraheb.watusi](https://mega.nz/#!ACpUhIhB!swwedX5Z62h69114g5id9W8b_kmZ4YZ9ecGYAI5Qumo) 
 
 &nbsp;
 
