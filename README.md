@@ -13,7 +13,7 @@ The all-in-one tweak for WhatsApp Messenger!
       * [Original (net.whatsapp.WhatsApp)](https://mega.nz/#!ETQnDIrZ!PNnArCUajvBsfIRC5b-KKVVVin2UgTOfcFWU7M_Ofzw) 
       * [Duplicate (com.fouadraheb.watusi)](https://mega.nz/#!8XZlQAbC!3dM_JAaWaq7RLgh-EFlPOKuzQp9CVRmHFSHIaZnCPAA) 
 
-  * WhatsApp: __2.18.100__, Watusi: __1.0.65__ (Latest Version)
+  * WhatsApp: __2.18.100__, Watusi: __1.0.65__
       * [Original (net.whatsapp.WhatsApp)](https://mega.nz/#!cXIRUAoK!bezrnAX04O1xspDcUIhwFGPC_arZCB8By2BmVCyYJcs) 
       * [Duplicate (com.fouadraheb.watusi)](https://mega.nz/#!0aJiQQhL!kYcW0ZtEzkHpQg6mIl8O4i6pZMAozU_Dj1x5al7vqG4) 
   
