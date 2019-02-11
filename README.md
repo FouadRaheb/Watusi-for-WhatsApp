@@ -21,13 +21,13 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ## How to Sideload on non-jailbroken devices
 
-### Requirements:
+### Requirements
 
 1. A computer running macOS, Windows or Linux
 2. Internet connection
 3. Apple ID (email & password)
 
-### Guide:
+### Guide
 
 * Download the IPA file from the link above and place it on your Desktop
 
@@ -64,7 +64,7 @@ The all-in-one tweak for WhatsApp Messenger!
 ### FAQ
 * If you receive "Please sign in with app-specific password" error, that's beacuse you have 2-factor authentication enabled for your Apple ID. You have to go into Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID's password on Cydia Impactor.
 
-### Note:
+### Note
 
 * Signing with a non developer account will have the app expire in 7 days and you'll need to repeat the process again.
 * The app will not receive Push Notifications and you won't be able to use iCloud features.
