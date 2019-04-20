@@ -9,14 +9,13 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can either download it from BigBoss repo or add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
 
-  * WhatsApp: __2.19.41__, Watusi: __1.1.11__ 
-      * [Original (net.whatsapp.WhatsApp)](https://mega.nz/#!4LQm3aqY!hORFL2zzKNK9-Z5hb-2x11iE9n7nWltZMDwWJJ-0iiU) 
-      * [Duplicate (com.fouadraheb.watusi)](https://mega.nz/#!NWBAVa6Q!TJLFhGxphKo7EVsfyuokwKEkFSfGGnJVlYlPRU4IDOs) 
-      * [Business (net.whatsapp.WhatsAppSMB)](https://mega.nz/#!BeZG0IwZ!XjbNFGftxYKfhOf9oQn_C_oUrLXSAM_RJdmrt1BSV4Y) 
-
-  * WhatsApp: __2.19.31__, Watusi: __1.1.10__ (old version)
+  * WhatsApp: __2.19.31__, Watusi: __1.1.10__
       * [Original (net.whatsapp.WhatsApp)](https://mega.nz/#!oeBDwKwS!soGrbejjj-uDOswy0mTkoQNk7TAs9Zh2DbBBAqEbXDI) 
       * [Duplicate (com.fouadraheb.watusi)](https://mega.nz/#!cGYxyIba!F-QQXiVaT6qUGaJ51OGGsoe7yczw_4xqMHYLDUGnEfY) 
+
+  * WhatsApp: __2.19.20__, Watusi: __1.1.8__ (old version)
+      * [Original (net.whatsapp.WhatsApp)](https://mega.nz/#!gWpSjIgR!OhsA4d2IU-jV18Cjfu8bUPfvzyinijrku27l-vWXs4s) 
+      * [Duplicate (com.fouadraheb.watusi)](https://mega.nz/#!dLhAGYLS!vkABdEppTLdYa4fEGvJnqi_tdzpVL3A8nJtfA2NajtE) 
 
 &nbsp;
 
