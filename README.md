@@ -7,13 +7,17 @@ The all-in-one tweak for WhatsApp Messenger!
 ## Download Links
 
 * **Jailbreak:** You can either download it from BigBoss repo or add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia sources for the latest updated version.
-* **Sideloading (No Jailbreak):** Download IPA file from here and follow the guide below 
+* **Sideloading (No Jailbreak):** 
 
-    | Application        | Version   | Watusi |
-    | ------------------ |:---------:|:------:|
-    | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!RG5XFY7K!3ntq9wt6d-ZGNxWbIPWxi76tHFq8YAxXcDSiaQKS52E) | 2.19.41   | 1.1.11 |
-    | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!wKpR1SKL!G0PSB_I62WCE1AJjj5S3ZbWAUyUvlWHnTnHz4KIKLKU) | 2.19.41   | 1.1.11 |
-    | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!EPQXCIRL!A0RQfYhXSGhGtTR9HD6We78h8PQ6nPU5Cb07BfqQ-Ew) | 2.19.21   | 1.1.11 |
+    * Download IPA file from here and follow the instructions below to sign and install the app from your computer 
+
+        | Application        | Version   | Watusi |
+        | ------------------ |:---------:|:------:|
+        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!RG5XFY7K!3ntq9wt6d-ZGNxWbIPWxi76tHFq8YAxXcDSiaQKS52E) | 2.19.41   | 1.1.11 |
+        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!wKpR1SKL!G0PSB_I62WCE1AJjj5S3ZbWAUyUvlWHnTnHz4KIKLKU) | 2.19.41   | 1.1.11 |
+        | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!EPQXCIRL!A0RQfYhXSGhGtTR9HD6We78h8PQ6nPU5Cb07BfqQ-Ew) | 2.19.21   | 1.1.11 |
+    
+    * Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025483) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025483) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025483).
 
 &nbsp;
 
