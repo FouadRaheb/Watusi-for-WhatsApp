@@ -9,15 +9,17 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can either download it from BigBoss repo or add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** 
 
-    * Download IPA file from here and follow the instructions below to sign and install the app from your computer 
+    1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
-        | Application        | Version   | Watusi |
-        | ------------------ |:---------:|:------:|
-        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!RG5XFY7K!3ntq9wt6d-ZGNxWbIPWxi76tHFq8YAxXcDSiaQKS52E) | 2.19.41   | 1.1.11 |
-        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!wKpR1SKL!G0PSB_I62WCE1AJjj5S3ZbWAUyUvlWHnTnHz4KIKLKU) | 2.19.41   | 1.1.11 |
-        | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!EPQXCIRL!A0RQfYhXSGhGtTR9HD6We78h8PQ6nPU5Cb07BfqQ-Ew) | 2.19.21   | 1.1.11 |
+        | Application        | Version   | Watusi | Stalky |
+        | ------------------ |:---------:|:------:|:------:|
+        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!NHY2UQgQ!4i5GOaPj7VF1rD1gRQSGLNYYrastsCTnowodgYEJ6LE) | 2.19.51   | 1.1.11 | - |
+        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!ITxnBYiL!gS2854a2mcIUKxaA8o09J9qWvdiSOgrNU6C41040iw0) | 2.19.51   | 1.1.11 | 4.0.4 |
+        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!cXZyCQbR!Anure7wTsKiYT1U6vdhMxt0KDzyMYI_eQZw8QJdIgMk) | 2.19.51   | 1.1.11 | - |
+        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!oP5ViQZR!_hDYXXMmB0VPTP_CxLDOdn00qSQeQDmLFmN4vnnl2ps) | 2.19.51   | 1.1.11 | 4.0.4 |
+        | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!1GhRAICK!DVSgHte2P_7tBxrkZuBvjtOVaDQY3mOg5R23lzLzMxA) | 2.19.51   | 1.1.11 | - |
     
-    * Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
+    2. Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
 
 &nbsp;
 
