@@ -13,10 +13,10 @@ The all-in-one tweak for WhatsApp Messenger!
 
         | Application        | Version   | Watusi | Stalky |
         | ------------------ |:---------:|:------:|:------:|
-        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!NHY2UQgQ!4i5GOaPj7VF1rD1gRQSGLNYYrastsCTnowodgYEJ6LE) | 2.19.51   | 1.1.18 | - |
-        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!ITxnBYiL!gS2854a2mcIUKxaA8o09J9qWvdiSOgrNU6C41040iw0) | 2.19.51   | 1.1.18 | 4.0.4 |
-        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!cXZyCQbR!Anure7wTsKiYT1U6vdhMxt0KDzyMYI_eQZw8QJdIgMk) | 2.19.51   | 1.1.18 | - |
-        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!oP5ViQZR!_hDYXXMmB0VPTP_CxLDOdn00qSQeQDmLFmN4vnnl2ps) | 2.19.51   | 1.1.18 | 4.0.4 |
+        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!pP4iDQSR!cfmDocpTO8vltBHCtHRTdHL1gntdTlihwnQ1osEvafs) | 2.19.60   | 1.2.2 | - |
+        | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/#!sToEyYSL!W2Lpog_QjZDk36jIjjVFOGNCB7XFM2N059FLCHRg12w) | 2.19.60   | 1.2.2 | 4.0.5 |
+        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!BP4QESjA!wlt0pNBkI3UgMKtDlxtkVY10HarVhEvi3IUjS1nG3fI) | 2.19.60   | 1.2.2 | - |
+        | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!4fhkiYCb!H4YySx0wXzEFTbVE7f5zVw6ZoioAVUHDYDY-b0Dc5OA) | 2.19.60   | 1.2.2 | 4.0.5 |
         | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!1GhRAICK!DVSgHte2P_7tBxrkZuBvjtOVaDQY3mOg5R23lzLzMxA) | 2.19.51   | 1.1.18 | - |
     
     2. Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
