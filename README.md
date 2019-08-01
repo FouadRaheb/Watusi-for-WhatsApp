@@ -9,7 +9,7 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can either download it from BigBoss repo or add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia sources for the latest updated version.
 * **Sideloading (No Jailbreak):** 
 
-    1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
+    1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
         | Application        | Version   | Watusi | Stalky |
         | ------------------ |:---------:|:------:|:------:|
@@ -19,7 +19,7 @@ The all-in-one tweak for WhatsApp Messenger!
         | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/#!9ahWVYIa!Y_5MQcKFg3jcvaRE0nRUTtm7L6rQ4Mko_NMCXYhEaTo) | 2.19.71   | 1.2.3 | 4.0.6 |
         | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/#!UHgA2AQL!vgjlI19tqpcxYdEtQNSV1iV0kP3UrVXrWWcEUHf94SM) | 2.19.71   | 1.2.3 | - |
     
-    2. Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
+    2. (Option 2) Get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
 
 &nbsp;
 
