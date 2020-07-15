@@ -17,10 +17,10 @@ The all-in-one tweak for WhatsApp Messenger!
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
     alt="Add Source to Cydia svg1"></a>
 <a href="sileo://source/https://apt.fouadraheb.com">
-  <img src="https://apt.fouadraheb.com/images/sileo.png"
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
     alt="Add Source to Sileo svg1"></a>
 <a href="zbra://sources/add/https://apt.fouadraheb.com">
-  <img src="https://apt.fouadraheb.com/images/zebra.png"
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
     alt="Add Source to Zebra svg1"></a>
 </p> 
 
