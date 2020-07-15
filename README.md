@@ -13,7 +13,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * **Jailbreak:** You can either download it from BigBoss repo or click on these icons on your Cydia
 <p align="center">
-<a href=cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com">
+<a href=https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com/&package=com.fouadraheb.watusi">
   <img src="https://apt.fouadraheb.com/images/cydia.png?v=103"
     alt="Add Source to Cydia svg1"></a>
 <a href="sileo://source/https://apt.fouadraheb.com">
@@ -23,6 +23,13 @@ The all-in-one tweak for WhatsApp Messenger!
   <img src="https://apt.fouadraheb.com/images/zebra.png?v=103"
     alt="Add Source to Zebra svg1"></a>
 </p> 
+
+<div class="btn-group btn-group-justified btn-group-repo hidden-xs hidden-sm visible-md visible-lg">
+<a class="btn btn-default" rel="nofollow noopener" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com/"><img width="25" height="25" src="https://api.ios-repo-updates.com/images/apt/cydia.png" class="img-rounded lazy loaded" data-src="https://api.ios-repo-updates.com/images/apt/cydia.png" alt="Cydia" data-was-processed="true"> Cydia</a>
+<a class="btn btn-default" rel="nofollow noopener" href="installer://add/repo=https://apt.fouadraheb.com/"><img width="25" height="25" src="https://api.ios-repo-updates.com/images/apt/installer.png" class="img-rounded lazy loaded" data-src="https://api.ios-repo-updates.com/images/apt/installer.png" alt="Installer" data-was-processed="true"> Installer</a>
+<a class="btn btn-default" rel="nofollow noopener" href="sileo://source/https://apt.fouadraheb.com/"><img width="25" height="25" src="https://api.ios-repo-updates.com/images/apt/sileo.png" class="img-rounded lazy loaded" data-src="https://api.ios-repo-updates.com/images/apt/sileo.png" alt="Sileo" data-was-processed="true"> Sileo</a>
+<a class="btn btn-default" rel="nofollow noopener" href="zbra://sources/add/https://apt.fouadraheb.com/"><img width="25" height="25" src="https://api.ios-repo-updates.com/images/apt/zebra.png" class="img-rounded lazy loaded" data-src="https://api.ios-repo-updates.com/images/apt/zebra.png" alt="Zebra" data-was-processed="true"> Zebra</a>
+</div>
 
 sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
 * **Sideloading (No Jailbreak):** 
