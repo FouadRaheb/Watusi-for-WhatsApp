@@ -13,13 +13,13 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * **Jailbreak:** You can either download it from BigBoss repo or click on these icons on your Cydia
 <p align="center">
-<a href=https://apt.fouadraheb.com/cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com">
+<a href=cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com">
   <img src="https://apt.fouadraheb.com/images/cydia.png?v=103"
     alt="Add Source to Cydia svg1"></a>
-<a href="https://apt.fouadraheb.com/sileo://source/https://apt.fouadraheb.com">
+<a href="sileo://source/https://apt.fouadraheb.com">
     <img src="https://apt.fouadraheb.com/images/sileo.png?v=300"
     alt="Add Source to Sileo svg1"></a>
-<a href="https://apt.fouadraheb.com/zbra://sources/add/https://apt.fouadraheb.com">
+<a href="zbra://sources/add/https://apt.fouadraheb.com">
   <img src="https://apt.fouadraheb.com/images/zebra.png?v=103"
     alt="Add Source to Zebra svg1"></a>
 </p> 
