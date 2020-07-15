@@ -1,5 +1,5 @@
 <p align="center">
-## Watusi for WhatsApp
+Watusi for WhatsApp
 </p>
 
 <p align="center">
