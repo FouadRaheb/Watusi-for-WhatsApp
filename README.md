@@ -1,7 +1,7 @@
 <h1><p align="center">Watusi for WhatsApp</p></h1>
 
 <p align="center">
-    <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/wallpaper/watusi.png?raw=true"
+    <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/images/WatusiScreenshot.png?raw=true"
         height="400">
 </p>
 
