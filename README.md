@@ -24,7 +24,7 @@ The all-in-one tweak for WhatsApp Messenger!
     alt="Add Source to Zebra svg1"></a>
 </p> 
 
-to your Cydia sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
+sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
 * **Sideloading (No Jailbreak):** 
 
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
