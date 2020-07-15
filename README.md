@@ -11,7 +11,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ## Download Links
 
-* **Jailbreak:** You can download it from the BigBoss repository or click these icons
+* **Jailbreak:** You can either download it from BigBoss repo or click on these icons on your Cydia
 <p align="center">
 <a href=https://apt.fouadraheb.com/cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com">
   <img src="https://apt.fouadraheb.com/images/cydia.png?v=103"
