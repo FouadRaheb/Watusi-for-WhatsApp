@@ -11,21 +11,12 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ## Download Links
 
-* **Jailbreak:** You can either download it from BigBoss repo or click on these icons on your Cydia
-<div class="col-xs-12 col-sm-6 col-sm-offset-3 form-group text-center">
-    <input dir="ltr" class="form-control" type="text" value="https://apt.fouadraheb.com">
-</div>
+* **Jailbreak:** You can either download it from BigBoss repo or click this icon on your Cydia
 
 <p align="center">
-<a href=https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com/&package=com.fouadraheb.watusi">
-  <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/images/WatusiLogo/cydia.png?raw=true"
-    alt="Add Source to Cydia"></a>
-<a href="sileo://source/https://apt.fouadraheb.com">
-    <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/images/WatusiLogo/sileo.png?raw=true"
-    alt="Add Source to Sileo"></a>
-<a href="zbra://sources/add/https://apt.fouadraheb.com">
-  <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/images/WatusiLogo/zebra.png?raw=true"
-    alt="Add Source to Zebra"></a>
+<a href="https://apt.fouadraheb.com/">
+  <img src="https://watusi.fouadraheb.com/img/Watusi/watusi-header-logo.png"
+    alt="Add source to repository"></a>
 </p>
 
 sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
