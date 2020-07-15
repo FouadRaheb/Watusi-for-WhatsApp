@@ -31,7 +31,7 @@ sources for the latest updated version. (Check [canijailbreak.com](https://canij
 
         | Application        | Version   | Watusi | Stalky |
         | ------------------ |:---------:|:------:|:------:|
-        | WhatsApp Oficial   | Version   | Watusi | Stalky |
+        | WhatsApp Official  | Version   | Watusi | Stalky |
         | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/file/lXhX1KYK#y9lMmQO2WGFuYRYmo89feR6piIj6x3_wX2IeWaIwoZY) | 2.20.51   | 1.2.40 | - |
         | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/file/ZOgBhS6Y#qqbVt3wdOkr8WnSqTv7HFraiaH0jGm2q583L60RLQfQ) | 2.20.51   | 1.2.40 | 4.1.3 |
         | WhatsApp Duplicate | Version   | Watusi | Stalky |
