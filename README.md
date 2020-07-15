@@ -14,11 +14,14 @@ The all-in-one tweak for WhatsApp Messenger!
 * **Jailbreak:** You can download it from the BigBoss repository or click these icons
 <p align="center">
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.fouadraheb.com">
-  <img src="https://apt.fouadraheb.com/images/cydia.png" /></a>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
+    alt="Add Source to Cydia svg1"></a>
 <a href="sileo://source/https://apt.fouadraheb.com">
-  <img src="https://apt.fouadraheb.com/images/sileo.png" /></a>
+  <img src="https://apt.fouadraheb.com/images/sileo.png"
+    alt="Add Source to Sileo svg1"></a>
 <a href="zbra://sources/add/https://apt.fouadraheb.com">
-  <img src="https://apt.fouadraheb.com/images/zebra.png" /></a>
+  <img src="https://apt.fouadraheb.com/images/zebra.png"
+    alt="Add Source to Zebra svg1"></a>
 </p> 
 
 to your Cydia sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
