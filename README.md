@@ -1,4 +1,8 @@
-# Watusi for WhatsApp
+
+<p align="center">
+    <img src="https://github.com/iTPr0/Watusi-for-WhatsApp/blob/master/wallpaper/watusi.png?raw=true"
+        height="400">
+</p>
 
 The all-in-one tweak for WhatsApp Messenger!
 
