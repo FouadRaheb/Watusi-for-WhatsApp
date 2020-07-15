@@ -33,8 +33,14 @@ sources for the latest updated version. (Check [canijailbreak.com](https://canij
         | ------------------ |:---------:|:------:|:------:|
         | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/file/lXhX1KYK#y9lMmQO2WGFuYRYmo89feR6piIj6x3_wX2IeWaIwoZY) | 2.20.51   | 1.2.40 | - |
         | [WhatsApp (__net.whatsapp.WhatsApp__)](https://mega.nz/file/ZOgBhS6Y#qqbVt3wdOkr8WnSqTv7HFraiaH0jGm2q583L60RLQfQ) | 2.20.51   | 1.2.40 | 4.1.3 |
+        | ------------------ |:---------:|:------:|:------:|
+        | WhatsApp Duplicate | Version   | Watusi | Stalky |
+        | ------------------ |:---------:|:------:|:------:|
         | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/file/JO4DiCIa#vK6S18oPgxX3haXXgwswQFZQ1vO1UHPtiX3B4ByKgHU) | 2.20.51   | 1.2.40 | - |
         | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/file/gSIxiAwT#1F-tuguBmrsWpX5R-clMKpYTQzExD1WUNk04PAn1fzM) | 2.20.51   | 1.2.40 | 4.1.3 |
+        | ------------------ |:---------:|:------:|:------:|
+        | WhatsApp Business  | Version   | Watusi | Stalky |
+        | ------------------ |:---------:|:------:|:------:|
         | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/file/ZKw1AIDC#J4UBITLwywYay5tWTUVJWVcHMPv7s1kvDo3RJ-GBCX0) | 2.20.51   | 1.2.40 | - |
     
     2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
