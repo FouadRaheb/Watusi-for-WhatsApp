@@ -16,7 +16,7 @@ The all-in-one tweak for WhatsApp Messenger!
 <p align="center">
 <a href="https://apt.fouadraheb.com/">
   <img src="https://watusi.fouadraheb.com/img/Watusi/watusi-header-logo.png"
-    alt="Add source to repository"></a>
+       height="100" alt="Add source to repository"></a>
 </p>
 
 sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
