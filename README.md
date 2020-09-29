@@ -27,11 +27,23 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ### Requirements
 
-1. A computer running macOS, Windows or Linux
+1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
 
-### Guide
+### AltStore
+
+* Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
+
+* Download and install AltServer from [here](https://altstore.io)
+
+* Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
+
+* Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose original IPA or com.fouadraheb.watusi for the duplicate)
+
+* Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
+
+### Cydia Impactor (Requires Developer Account)
 
 * Download the IPA file from the link above and place it on your Desktop
 
@@ -65,10 +77,10 @@ The all-in-one tweak for WhatsApp Messenger!
 
 * Wait for Cydia Impactor to finish and you will find the app installed on your device
 
-### FAQ
+#### FAQ
 * If you receive "Please sign in with app-specific password" error, that's beacuse you have 2-factor authentication enabled for your Apple ID. You have to go into Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID's password on Cydia Impactor.
 
 ### Note
 
-* Signing with a non developer account will have the app expire in 7 days and you'll need to repeat the process again.
+* Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. Non-Developer accounts do not work with Cydia Impactor.
 * The app will not receive Push Notifications and you won't be able to use iCloud features.
