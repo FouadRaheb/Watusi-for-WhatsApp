@@ -6,7 +6,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ## Download Links
 
-* **Jailbreak:** You can either download it from BigBoss repo or add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia sources for the latest updated version. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
+* **Jailbreak:** Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
 * **Sideloading (No Jailbreak):** 
 
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
