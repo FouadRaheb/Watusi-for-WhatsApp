@@ -19,7 +19,7 @@ The all-in-one tweak for WhatsApp Messenger!
         | [WhatsApp Duplicate (__com.fouadraheb.watusi__)](https://mega.nz/file/8P4w0KyA#-dBb7-AJ0z_yxJNZzDEBccc9-8cjIa0l3LSMudVXA6Y) | 2.20.90   | 1.3.7 | 4.1.4 |
         | [WhatsApp Business (__net.whatsapp.WhatsAppSMB__)](https://mega.nz/file/EChCjACT#DboxxP6zRfKo6GrCuiTMyE3l_okJkdZlv9jn3cW-sKs) | 2.20.90   | 1.3.7 | - |
         
-    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/WAtest/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/WAtest/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553).
+    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/watusi/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/watusi/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553) - [Watusi WhatsApp Business](https://builds.io/apps/whatsappb/?aid=1025553).
 
 &nbsp;
 
