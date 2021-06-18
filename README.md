@@ -14,20 +14,20 @@ The all-in-one tweak for WhatsApp Messenger!
         <small>Watusi 3 is now available, a new version with many new features! Check this [reddit post](https://www.reddit.com/r/jailbreak/comments/n1y4r1/free_release_watusi_3_the_allinone_tweak_for/) to learn what's new.</small>
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp](https://mega.nz/file/oax00Swb#DP69NXaMohuivfDh2NWkwbfsY8tjlYGvUz-LEmPaRWE) | net.whatsapp.WhatsApp | 2.21.81 | 1.0.2 | - |
-        | [WhatsApp](https://mega.nz/file/JOgQ3IrI#LHiBJJUc_dbOuFGTMrz2bsUWW4mxWpihFBjLl9F6BU0) | net.whatsapp.WhatsApp | 2.21.81 | 1.0.2 | 4.1.8 |
-        | [WhatsApp Duplicate](https://mega.nz/file/MOgE0KSL#y4KdohWzn8aNrP1_b6KCAV0HSfy2s8dW3GM_Iw0TpoY) | com.fouadraheb.watusi | 2.21.81 | 1.0.2 | - |
-        | [WhatsApp Duplicate](https://mega.nz/file/gCh2xYZC#JAJ-JiIXjKdc85lQaKXyulr-DulqXPJFfRUlcWZpUt4) | com.fouadraheb.watusi | 2.21.81 | 1.0.2 | 4.1.8 |
-        | [WA Business](https://mega.nz/file/4Gw0DCKJ#GcL88Fn6j2f-p8CH5wFLZly2sDrMaIxKUHdPa-3JIsE) | net.whatsapp.WhatsAppSMB | 2.21.81 | 1.0.2 | - |
+        | [WhatsApp](https://mega.nz/file/gHhiGTKJ#8XJBroa-wjaLdU1PhxCRV6jCQV9cE6X_S81mE7eHz-Y) | net.whatsapp.WhatsApp | 2.21.110 | 1.0.4 | - |
+        | [WhatsApp](https://mega.nz/file/xeokEZjS#fl77SnPf286HkLpfVtA3nkQgqD_u1AmqqTQWe65cLao) | net.whatsapp.WhatsApp | 2.21.110 | 1.0.4 | 4.1.8 |
+        | [WhatsApp Duplicate](https://mega.nz/file/hX4WmZTQ#YfrqYAqtlM_pL0y0j-GKjm0tHyWQWCpdxPBfsQ8lRdo) | com.fouadraheb.watusi | 2.21.110 | 1.0.4 | - |
+        | [WhatsApp Duplicate](https://mega.nz/file/AP4kWDrb#cgwgtjoYTC4IORR8-2NPYOaqGzkCVBoW-4iTd2tfCtQ) | com.fouadraheb.watusi | 2.21.110 | 1.0.4 | 4.1.8 |
+        | [WA Business](https://mega.nz/file/oGxGxR7T#-PyT0pYUyliy939uvWJ2E1joN2ghawI4pmnOw4DbHeE) | net.whatsapp.WhatsAppSMB | 2.21.110 | 1.0.4 | - |
         
         <small>Watusi 2 will still be available for those who don't wish to upgrade to Watusi 3.</small>
         | Application | Bundle | Version | Watusi 2 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp](https://mega.nz/file/wX5gQASY#U3C9LCV8JkCygRRniFfAyk290bLu52TFufMuZT89nPA) | net.whatsapp.WhatsApp | 2.21.81 | 1.4.5 | - |
-        | [WhatsApp](https://mega.nz/file/NX4m1A7R#9SCqHdnvX8gFnpRYb50CEuTpJmHoXUP-MFp_XUZtUQU) | net.whatsapp.WhatsApp | 2.21.81 | 1.4.5 | 4.1.8 |
-        | [WhatsApp Duplicate](https://mega.nz/file/9LoCRK6K#xVA5l_NL1vtPsoVAyE56gKFJsBCINQjKH67wMwD1Qv0) | com.fouadraheb.watusi | 2.21.81 | 1.4.5 | - |
-        | [WhatsApp Duplicate](https://mega.nz/file/QepSlKwS#K4ydKv7d2fnxbfNwBSd1sGZ-xT93myr2MrqDmt8aBTA) | com.fouadraheb.watusi | 2.21.81 | 1.4.5 | 4.1.8 |
-        | [WA Business](https://mega.nz/file/tGoGVY5R#RvxDECCQkjo9QsbSva89t0BlcD4K5pRXufYJz8oY-eE) | net.whatsapp.WhatsAppSMB | 2.21.81 | 1.4.5 | - |
+        | [WhatsApp](https://mega.nz/file/0ThmiDZL#cgrsWcso3ShmwwTgtK_HYjWHIj2Dz9GmibcT1g6xRl8) | net.whatsapp.WhatsApp | 2.21.110 | 1.4.7 | - |
+        | [WhatsApp](https://mega.nz/file/sepQwLga#i6w9jyIBIKfnD-TDSDv1ft33M0viRJ9nOoz8kXnUt1o) | net.whatsapp.WhatsApp | 2.21.110 | 1.4.7 | 4.1.8 |
+        | [WhatsApp Duplicate](https://mega.nz/file/ZegEmRwA#pLVVMDEetgxsINTZnAWIG-vDEamekIOmdY3c3TfDSOY) | com.fouadraheb.watusi | 2.21.110 | 1.4.7 | - |
+        | [WhatsApp Duplicate](https://mega.nz/file/1S5yVDYQ#NcAYBm5DVjOVinTpny52nsvCYQ_SMffbjzZU3URvhBs) | com.fouadraheb.watusi | 2.21.110 | 1.4.7 | 4.1.8 |
+        | [WA Business](https://mega.nz/file/YOxgGBYZ#Y3udFmeQni_mZoZrub_ndqvT33pr0GfWG7HFMKCNfHM) | net.whatsapp.WhatsAppSMB | 2.21.110 | 1.4.7 | - |
         
     2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/watusi/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/watusi/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553) - [Watusi WhatsApp Business](https://builds.io/apps/whatsappb/?aid=1025553).
 
