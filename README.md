@@ -14,7 +14,7 @@ The all-in-one tweak for WhatsApp Messenger!
         <small>Watusi 3 is now available, a new version with many new features! Check this [reddit post](https://www.reddit.com/r/jailbreak/comments/n1y4r1/free_release_watusi_3_the_allinone_tweak_for/) to learn what's new.</small>
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp](https://mega.nz/file/kO51EQCI#6efySDUss3Vv4_pTUdrX1Y8i_wACARwSwY7zpCE8fVE) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | - |
+        | [WhatsApp](https://mega.nz/file/5fhCyZiL#T3F7cvUVuHc7q3LzbzyVtTA4HQo2GYjsb9C5opQZ8Kw) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | - |
         | [WhatsApp](https://mega.nz/file/FCxFjAbB#_Nj9kuOeMn_JU_l5YNf0WGc8J_vLkXMiTzO0--5eiYQ) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | 4.1.10 |
         | [WhatsApp Duplicate](https://mega.nz/file/wGxxgaQK#zOZlyIPE5mafapXKZWV_qKnDtl_YozlXHdp5iSgchWw) | com.fouadraheb.watusi | 2.21.170 | 1.1 | - |
         | [WhatsApp Duplicate](https://mega.nz/file/UOgmTDoK#Z_hlNapxWj16JX2qRUewPYhRQMPwLEcTpxthOxd4Xm4) | com.fouadraheb.watusi | 2.21.170 | 1.1 | 4.1.10 |
