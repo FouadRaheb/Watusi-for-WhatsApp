@@ -14,11 +14,11 @@ The all-in-one tweak for WhatsApp Messenger!
         <small>Watusi 3 is now available, a new version with many new features! Check this [reddit post](https://www.reddit.com/r/jailbreak/comments/n1y4r1/free_release_watusi_3_the_allinone_tweak_for/) to learn what's new.</small>
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp](https://mega.nz/file/IXhVVAqY#LQFtagvUZ5VBa_R-VmtthXT5C33b7F73j_CsGvPm3Fc) | net.whatsapp.WhatsApp | 2.21.181 | 1.1.1 | - |
-        | [WhatsApp](https://mega.nz/file/1LBHFQyZ#TDfhGQJVxUvAHg3fkMEYsQf7sqnOkwpfuL9BvivBoTw) | net.whatsapp.WhatsApp | 2.21.181 | 1.1.1 | 4.1.11 |
-        | [WhatsApp Duplicate](https://mega.nz/file/UGp1hAgR#y-NFeyRVO4RrUNfIxjazYRoRftV6s-8XwpBl00f8I8Q) | com.fouadraheb.watusi | 2.21.181 | 1.1.1 | - |
-        | [WhatsApp Duplicate](https://mega.nz/file/1C51VCyR#ZHbOfo94UQtOFrv9Mq1b7uqVLVwGekf-J7GIruPoOuc) | com.fouadraheb.watusi | 2.21.181 | 1.1.1 | 4.1.11 |
-        | [WA Business](https://mega.nz/file/8Sp1GY5D#QX_0edzYZlU6vNWVZWat2xKvm65Mm5WoFeY6X7kMSb0) | net.whatsapp.WhatsAppSMB | 2.21.181 | 1.1.1 | - |
+        | [WhatsApp](https://mega.nz/file/JKIQhR4Y#WkmbBXyQbCBjiyi52rJaJZu7K162plrfINyKwXQ8dbg) | net.whatsapp.WhatsApp | 2.21.181 | 1.1.1 | - |
+        | [WhatsApp](https://mega.nz/file/IX4yXTzA#vRLmt3LKjdFtFkHpa3eAbv16ArTNLDcLNVZqmtbHbsE) | net.whatsapp.WhatsApp | 2.21.181 | 1.1.1 | 4.1.11 |
+        | [WhatsApp Duplicate](https://mega.nz/file/QOBjVQ5D#3z-ZZUj_CqK8fZfUAC0ZjaP2fl3JOvQ217ahr1mX80g) | com.fouadraheb.watusi | 2.21.181 | 1.1.1 | - |
+        | [WhatsApp Duplicate](https://mega.nz/file/oTZCFBDR#QG6FQofv1Y8JybdOPrfzrM6c_KvjW7-3m9bGO0vo4pk) | com.fouadraheb.watusi | 2.21.181 | 1.1.1 | 4.1.11 |
+        | [WA Business](https://mega.nz/file/cKJhnawT#T5Bl0EV3T83OiSnww89iWVBYvpW42ulnJnLHBx9WzYk) | net.whatsapp.WhatsAppSMB | 2.21.181 | 1.1.1 | - |
         
         <small>Watusi 2 will still be available for those who don't wish to upgrade to Watusi 3.</small>
         | Application | Bundle | Version | Watusi 2 | Stalky |
