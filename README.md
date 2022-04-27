@@ -1,8 +1,17 @@
+[original]: https://mega.nz/file/hHYABbrI#-kjjcJFkI1K9qg_lgbPkr2jBgd3qrlAGPbwJVSici6I
+[original-stalky]: https://mega.nz/file/dTwDzLIS#TrC1zCfbRlsSIq2ZYA8XGs9-9N6sEt5Y_nzc8418xh4
+[duplicate]: https://mega.nz/file/QChU1C5T#BYbhwgkq49viwtqRfpPwhYopLt0HtPj0Dxa334Ujpyo
+[duplicate-stalky]: https://mega.nz/file/YGoXCDCZ#SofMIeQqvsNioYqaAEKJ-caDxK9MeqfmghdSPXpf7TI
+[business]: https://mega.nz/file/xHojzDoD#q-smNXZ3Zt6ATehBrVFhALsG50kif-r6GHN9nmt5Dps
+
+[builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
+[builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewatusi/?aid=1025553
+[builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
+
 # Watusi for WhatsApp
 
 The all-in-one tweak for WhatsApp Messenger!
 
-&nbsp;
 
 ## Download Links
 
@@ -11,16 +20,15 @@ The all-in-one tweak for WhatsApp Messenger!
 
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
-
         | Application | Bundle | Version | Watusi 3 | Stalky |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp](https://mega.nz/file/ZDBSVCSB#gYRH29kTQMkN0XMIxqQjebDFJjhNI9B575tH_ut-MhU) | net.whatsapp.WhatsApp | 22.6.74 | 1.1.17 | - |
-        | [WhatsApp](https://mega.nz/file/gLRCwBTS#16tP3emfHHPRNtlYAAOJvbknYMMmTfWHcPTmX-UwuxA) | net.whatsapp.WhatsApp | 22.6.74 | 1.1.17 | 4.1.14 |
-        | [WhatsApp Duplicate](https://mega.nz/file/9epgHKDb#CZ0bWd9hhO4TpLrvtLzKWBNytXnozYtKNyh_rr5HH3U) | com.fouadraheb.watusi | 22.6.74 | 1.1.17 | - |
-        | [WhatsApp Duplicate](https://mega.nz/file/NXIFRZSC#XLZM9bSXihhpqB212nbAuhCaLnpHr0k29Tx3zR8rn9w) | com.fouadraheb.watusi | 22.6.74 | 1.1.17 | 4.1.14 |
-        | [WA Business](https://mega.nz/file/EP4CiaKL#_2zPuYVpqounMjpiWzErzPx3yWIDPOFVvarK06fq8Kg) | net.whatsapp.WhatsAppSMB | 22.6.74 | 1.1.17 | - |
+        | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.9.76 | 1.1.23 | - |
+        | [WhatsApp][original-stalky] | net.whatsapp.WhatsApp | 22.9.76 | 1.1.23 | 4.1.14 |
+        | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.9.76 | 1.1.23 | - |
+        | [WhatsApp Duplicate][duplicate-stalky] | com.fouadraheb.watusi | 22.9.76 | 1.1.23 | 4.1.14 |
+        | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.9.76 | 1.1.23 | - |
         
-    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io](https://builds.io/apps/watusi/?aid=1025553) since they always have the latest IPA from here. Builds.io links: [Watusi](https://builds.io/apps/watusi/?aid=1025553) - [Watusi Duplicate](https://builds.io/apps/duplicatewatusi/?aid=1025553) - [Watusi WhatsApp Business](https://builds.io/apps/whatsappb/?aid=1025553).
+    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from here. Builds.io links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
 
 &nbsp;
 
