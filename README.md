@@ -1,7 +1,7 @@
 [original]: https://mega.nz/file/hWxCRBhZ#9P5Zpnk9ZHL7R2zWSfoAWJPH4hL9YzK2Ps5-ZkjW7ko
-[original-stalky]: https://mega.nz/file/UXhwFS7Z#HDlJG_CiIV9KC_vMxKcEqoqOKHsQi6fVgfZjED529zo
+[original-stalky]: https://mega.nz/file/FThQna7T#B7QnBnkSCdpRTsrXAbEBPQj5NAzIjfhklOFklRzRV2k
 [duplicate]: https://mega.nz/file/0L4jFJSK#ecehUAvpOkvlcnMVBYDc0nZYBDEiPHYcQiDK2tuJXuI
-[duplicate-stalky]: https://mega.nz/file/NKY1HTrD#YDPuTV82N_iP7dETHX-EafETxruePiawaGy1MTPKfDE
+[duplicate-stalky]: https://mega.nz/file/IKR0CDCS#IP6ngXl2bircIvXnfCCgUnEw5PVtcucK0SPSiBBsUYA
 [business]: https://mega.nz/file/EeZ23BaA#ypCxvWci4smFX0uuyRdEL8s6-MySUOZ-9CH__BT7e2k
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
