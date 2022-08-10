@@ -5,7 +5,7 @@
 [business]: https://mega.nz/file/xWYVGLCL#E59wITxfvi5XLlH2mTWOqZ9qtxr5WEcX4PIdCjZkvxc
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
-[builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewatusi/?aid=1025553
+[builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 # Watusi for WhatsApp
