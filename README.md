@@ -1,14 +1,13 @@
-[original]: https://mega.nz/file/0bgS0CYK#72eFsIVeTlAEFbQVZFmISPC7guwCwe4bL5mfp_sdNbo
-[original-stalky]: https://mega.nz/file/BTBhkLgB#256G6D8CrK5jHjC96wZqt3ozO9xcleyPJ3rQlVhNX-g
-[duplicate]: https://mega.nz/file/oORA2KwL#qMUtdn38SKoeDXEwXjUhS7VVkDZkJhuFVC8MZIcfo8k
-[duplicate-stalky]: https://mega.nz/file/kKIkyKpT#6bQmORf6eR3pwCqA5pL7pfZv0kAVxB9clrFkmBomhas
-[business]: https://mega.nz/file/kaQ2nJBS#2DQ94I6L2IAiK_YmuMAZGYrk9leNKNIrr9PWWut6NeU
-[original-stalky-nofix]: https://mega.nz/file/NGQlBQiA#EutWE6DIO2s9oASeTyw8ryNX_BirQXgzDnsP7taJvlw
+[original]: https://mega.nz/file/gHAUwTCJ#DgkCBkGTm_idqjvFpoaZibAG2X7SB0pPA8fGbk4MLjo
+[duplicate]: https://mega.nz/file/9TJWVBCA#TZV9ukEeJ2gYi057xW7o3GtE0laeMbtyB6UXxCbPgyM
+[business]: https://mega.nz/file/JThlgYbB#ji4JhizzUXEMEF4qolMgSbHEAv3roZENn3bj9kG05zA
+
+[original-nofix]: https://mega.nz/file/gWxERBCA#L6gq10u337QAL7PcmsyiSoURxG6TeHvi59Ei41WnLmM
+[business-nofix]: https://mega.nz/file/ITYXGBrZ#agf0WJfMEjJ2OwdfLuDOLyEOL3SxgEdutegzISv_OBo
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
-[original-stalky-nofix]: https://builds.io/apps/whatsappb/?aid=1025553
 
 # Watusi for WhatsApp
 
@@ -19,27 +18,30 @@ The all-in-one tweak for WhatsApp Messenger!
 
 ### Jailbroken Devices
 
-Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. (Check [canijailbreak.com](https://canijailbreak.com/) for more info on how to jailbreak your current iOS version)
+Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. 
+
+(Check [this page](https://idevicecentral.com/jailbreak-tools/ios-jailbreak-downloads-download-jailbreak-tools-for-all-ios-versions/) for more info on how to jailbreak your current iOS version)
 
 ### Sideloading (No Jailbreak)
 
 1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer.
 
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
-    | Application | Bundle | Version | Watusi 3 | Stalky |
-    | ------------------ |:---------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | - |
-    | [WhatsApp][original-stalky] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | 4.1.14 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | - |
-    | [WhatsApp Duplicate][duplicate-stalky] | com.fouadraheb.watusi | 22.18.76 | 1.1.36 | 4.1.14 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.18.76 | 1.1.36 | - |
+    | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
+    | ------------------ |:---------:|:------:|:------:|:------:|:------:|
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.19.78 | 1.1.37 | 4.1.14 | 3.3.15 |
+
+    ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
 2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from here. Builds.io links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
 
+<br/>
 
 ### Sideloading with TrollStore
 
-Available for iOS 14 - 15.5 b4
+Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and older)
 
 1. Install [TrollStore](https://github.com/opa334/TrollStore)
 2. Download IPA file from the table below
@@ -48,11 +50,14 @@ Available for iOS 14 - 15.5 b4
 - The following IPA's binary and Plugins are fakesigned with their original entitlements
 - It does not include any fixes for WhatsApp, so `IT WILL CRASH` if not used in TrollStore or not signed with proper certificate and entitlements.
 
-| Application | Bundle | Version | Watusi 3 | Stalky |
-| ------------------ |:---------:|:------:|:------:|:------:|
-| [WhatsApp][original-stalky-nofix] | net.whatsapp.WhatsApp | 22.18.76 | 1.1.36 | 4.1.14 |
+| Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
+| ------------------ |:---------:|:------:|:------:|:------:|:------:|
+| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 22.19.78 | 1.1.37 | 4.1.14 |  3.3.15 |
+| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 22.19.78 | 1.1.37 | 4.1.14 |  3.3.15 |
 
 
+```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
+    
 <hr />
 
 ## How to Sideload on non-jailbroken devices
