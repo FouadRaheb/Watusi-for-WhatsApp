@@ -29,9 +29,9 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.21.77 | 1.1.37 | 4.1.16 | 3.3.15 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.21.77 | 1.1.37 | 4.1.16 | 3.3.15 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.21.77 | 1.1.37 | 4.1.16 | 3.3.15 |
 
     ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
@@ -52,8 +52,8 @@ Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and o
 
 | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
 | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.16 |  3.3.15 |
-| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.16 |  3.3.15 |
+| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 22.21.77 | 1.1.37 | 4.1.16 |  3.3.15 |
+| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 22.21.77 | 1.1.37 | 4.1.16 |  3.3.15 |
 
 
 ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
