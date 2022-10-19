@@ -1,9 +1,9 @@
-[original]: https://mega.nz/file/4awTAZaA#T_fPL6S_KNlcDPEGxc_8qeODoILYAynm_O5YAy5qqMg
-[duplicate]: https://mega.nz/file/UGYyTYYL#xJ_YLOAVrlYze90S6I3Ht_goDi1wj8rLtW1yoQHadJw
-[business]: https://mega.nz/file/0eol0bYB#4Rk7m2EZUL6SgGLJ5wGvOF3MLlSxZU1XYN1elYoWC_Y
+[original]: https://mega.nz/file/Efoz3aYK#PZf-txC3VDrrUDRqSnGWNGLm4a6EycNF4Nxgl5u85pc
+[duplicate]: https://mega.nz/file/UTIgiRQS#3QftFp3EWCK2QAc1L4fOt56xdHR4CVfQlsuvhrWIBBM
+[business]: https://mega.nz/file/BGJhCaiC#2nUlNiosTPoJV7feaFXlRZiCNJ0JMWE7PHy1qXG8sHg
 
-[original-nofix]: https://mega.nz/file/9G50XDAJ#yn4MQXpuNXTvLA-9ftLtpUAc2oN65RaQr1bPzODsVV8
-[business-nofix]: https://mega.nz/file/ha5nTSSa#3BETink2gl0HxJ56ToIRCGjLrQhF6bG0KVzzO5Dvk14
+[original-nofix]: https://mega.nz/file/oCQDhRbK#aPB-DzKCpQGxsPqp6R0ZPkr3eQWbqrg19eSVwrrqtqQ
+[business-nofix]: https://mega.nz/file/9HYlhJCZ#YmqSERpIzRdUwCUsQqJfW5bnftESzseqQnblH58RsgA
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -29,9 +29,9 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.15 | 3.3.15 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.16 | 3.3.15 |
 
     ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
@@ -52,8 +52,8 @@ Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and o
 
 | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
 | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.15 |  3.3.15 |
-| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.15 |  3.3.15 |
+| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 22.20.75 | 1.1.37 | 4.1.16 |  3.3.15 |
+| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 22.20.75 | 1.1.37 | 4.1.16 |  3.3.15 |
 
 
 ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
