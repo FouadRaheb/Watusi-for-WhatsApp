@@ -98,6 +98,7 @@ Since WhatsApp added the option to link a device on mobile, you can now use the 
 * Switch to your original WhatsApp
   * Go to `Settings > Linked Devices > Link a Device`
   * Scan the QR code from your other device and wait for it to link and load your chats
+* You can now disable the `Enable Local Notifications` feature from your duplicated app Watusi settings.
 
 You will now receive notifications from your original WhatsApp and use the duplicated app with Watusi and other tweaks.
 
