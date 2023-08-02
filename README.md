@@ -16,7 +16,7 @@ Watusi for WhatsApp
 The all-in-one tweak for WhatsApp Messenger!
 </p>
 
-## Download Links
+# How to install Watusi
 
 ### Jailbroken Devices
 
@@ -26,18 +26,20 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 ### Sideloading (No Jailbreak)
 
-1. (Option 1) Download IPA file from here and follow the below instructions ([Sideloading with AltStore](#sideloading-with-altstore)) to sign and install the app from your computer.
+* (Option 1) Download IPA file from here and follow the below [Sideloading with AltStore](#sideloading-with-altstore) instructions to sign and install the app from your computer. You can also follow the [Sideloading as a linked device](#sideloading-as-linked-device-push-notifictions--icloud-backup) tutorial to sideload a duplicate and still receive push notifications from original.
 
-    The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
+    <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
     | [WhatsApp][original] | net.whatsapp.WhatsApp | 23.15.0 | 1.1.66 | 4.1.22 | 3.4.3 |
     | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 23.15.0 | 1.1.66 | 4.1.22 | 3.4.3 |
     | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.14.82 | 1.1.66 | 4.1.22 | 3.4.3 |
 
-    ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
+    <sub>```Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.```</sub>
     
-2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from here. Builds.io links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
+* (Option 2) You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from this page. Links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
+
+* If you are on <b>iOS 14 - 15.1.1</b> (All devices) or <b>iOS 14 - 15.5 b4</b> (iPhone X and older), you should [Sideload with TrollStore](#sideloading-with-trollstore) to receive push notifications.
 
 ## Sideloading Guides
 
@@ -65,13 +67,15 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 </details>
 
 <details>
-<summary><h2>Sideloading with TrollStore (iOS 14 - 15.5 b4*)</h2></summary>
+<summary><h2>Sideloading with TrollStore</h2></summary>
 
 Available for <b>iOS 14 - 15.1.1</b> (All devices) and <b>iOS 14 - 15.5 b4</b> (iPhone X and older)
 
-1. Install [TrollStore](https://github.com/opa334/TrollStore)
-2. Download the IPA file from the table below
-3. Open IPA in TrollStore
+1. Install and activate WhatsApp from the AppStore
+2. Install [TrollStore](https://github.com/opa334/TrollStore)
+3. Download the IPA file from the table below
+4. Open IPA in TrollStore
+5. Install to overwrite original WhatsApp
 
 - The following IPA's binary and Plugins are fake signed with their original entitlements
 - It does not include any fixes for WhatsApp, so `IT WILL CRASH` if not used in TrollStore or not signed with proper certificate and entitlements.
@@ -82,7 +86,7 @@ Available for <b>iOS 14 - 15.1.1</b> (All devices) and <b>iOS 14 - 15.5 b4</b> (
 | [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.14 .82 | 1.1.66 | 4.1.22 |  3.4.3 |
 
 
-```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
+```Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.```
 </details>
 
 <details>
