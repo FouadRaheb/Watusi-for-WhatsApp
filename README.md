@@ -1,18 +1,20 @@
-[original]: https://mega.nz/file/QCgBlJyQ#fCPLkzGfAn8c_B31Iy-4ZuU0qNE-h06-iubhKmamZyI
-[duplicate]: https://mega.nz/file/dSpCHBLK#niAxOjRe7WAW1lVgtMAu98hL40Q1a0WFI3a8QhJFkRk
-[business]: https://mega.nz/file/5Ghg1Spb#Fk5uQ7n3Ji7_8urpxJHFVCKRxU5U8eUlLvfmjMsP2S0
+[original]: https://mega.nz/file/FHwglb7a#D294kB3xZaS4t_iiqeUML9XCcNBWdzs5oz6Iefcae3g
+[duplicate]: https://mega.nz/file/QagRCKRC#VhJ3FfoTLgFZYNZXHGSBOkdITporIWwJE3x19hlsXIo
+[business]: https://mega.nz/file/ka4SxAAJ#qwz8SXoV_3PNJXIy-jK3RiAnU6aN88AVMnOVJE2frfw
 
-[original-nofix]: https://mega.nz/file/tX43AaLA#r77FRJdTKegAcDvLToMF-de7I9ZsUvVZAuqKTLA4nwc 
-[business-nofix]: https://mega.nz/file/1GA3AJTR#_AnkWwQlCO8iO1GMOHQJxcfaqfdJwht-sIfJU0oSbcM
+[original-nofix]: https://mega.nz/file/YbwRxAJB#gmszMqDzOSJCwsCCAvDMW4AODxbvy_0cn6olawGCYhc
+[business-nofix]: https://mega.nz/file/QKJinByZ#qhEzlKWTobQkiiEdpuJ68yzskJ9a3W_e75y8AHV963Q
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
-# Watusi for WhatsApp
-
+<h1 align="center">
+Watusi for WhatsApp
+</h1>
+<p align="center">
 The all-in-one tweak for WhatsApp Messenger!
-
+</p>
 
 ## Download Links
 
@@ -20,7 +22,7 @@ The all-in-one tweak for WhatsApp Messenger!
 
 Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
-(Check [this page](https://idevicecentral.com/jailbreak-tools/ios-jailbreak-downloads-download-jailbreak-tools-for-all-ios-versions/) for more info on how to jailbreak your current iOS version)
+(Check [this page](https://appledb.dev/device-selection/) for more info on how to jailbreak your device if possible)
 
 ### Sideloading (No Jailbreak)
 
@@ -29,9 +31,9 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 23.13.80 | 1.1.64 | 4.1.21 | 3.4.3 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 23.13.80 | 1.1.64 | 4.1.21 | 3.4.3 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.13.83 | 1.1.64 | 4.1.21 | 3.4.3 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 23.15.0 | 1.1.66 | 4.1.23 | 3.4.3 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 23.15.0 | 1.1.66 | 4.1.23 | 3.4.3 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.14.82 | 1.1.66 | 4.1.23 | 3.4.3 |
 
     ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
@@ -39,7 +41,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 <br/>
 
-### Sideloading with TrollStore
+## Sideloading with TrollStore
 
 Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and older)
 
@@ -52,15 +54,15 @@ Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and o
 
 | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
 | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 23.13.80 | 1.1.64 | 4.1.21 |  3.4.3 |
-| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.13.83 | 1.1.64 | 4.1.21 |  3.4.3 |
+| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 23.15.0 | 1.1.66 | 4.1.21 |  3.4.3 |
+| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.14 .82 | 1.1.66 | 4.1.22 |  3.4.3 |
 
 
 ```Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.```
     
 <hr />
 
-## How to Sideload on non-jailbroken devices
+## Sideloading on non-jailbroken devices
 
 ### Requirements
 
