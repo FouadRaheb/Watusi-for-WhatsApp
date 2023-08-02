@@ -26,7 +26,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 ### Sideloading (No Jailbreak)
 
-1. (Option 1) Download IPA file from here and follow the [instructions below](#sideloading-with-altstore) to sign and install the app from your computer.
+1. (Option 1) Download IPA file from here and follow the below instructions ([Sideloading with AltStore](#sideloading-with-altstore)) to sign and install the app from your computer.
 
     The following IPA files have `Plugins` folder deleted and includes some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
