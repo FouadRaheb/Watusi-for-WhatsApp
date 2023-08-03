@@ -109,11 +109,11 @@ Since WhatsApp added the option to link a device on mobile, you can now use the 
 
 You will now receive notifications from your original WhatsApp and use the duplicated app with Watusi and other tweaks.
 
-You can also remove the original WhatsApp from your home screen so you only use the duplicated app.
-
-Optionally, you can create automation from the Shortcuts app to have your duplicated app open automatically when opening the original WhatsApp (especially from notifications).
-
-Make sure to open the original WhatsApp from time to time to keep chats in sync and backed up to iCloud.
+Tips:
+* You can remove the original WhatsApp from your home screen so you only use the duplicated app.
+* You can create automation from the Shortcuts app to have your duplicated app open automatically when opening the original WhatsApp (especially from notifications).
+* Turn off the notifications for the duplicated app from iOS notifications settings so you don't receive notifications when the duplicate is in the background.
+* Make sure to open the original WhatsApp from time to time to keep chats in sync and backed up to iCloud.
 
 </details>
 
