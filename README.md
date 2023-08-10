@@ -33,7 +33,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
     | [WhatsApp][original] | net.whatsapp.WhatsApp | 23.15.78 | 1.2 | 4.1.22 | 3.4.3 |
     | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 23.15.78 | 1.2 | 4.1.22 | 3.4.3 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.14.82 | 1.1.66 | 4.1.22 | 3.4.3 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.14.82 | 1.2 | 4.1.22 | 3.4.3 |
 
     <sup>Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
