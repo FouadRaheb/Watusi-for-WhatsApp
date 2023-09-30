@@ -86,7 +86,7 @@ The following IPAs binary and plugins are fake-signed with their original entitl
 | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
 | ------------------ |:---------:|:------:|:------:|:------:|:------:|
 | [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 23.19.86 | 1.2.7 | 4.1.23 |  3.4.4 |
-| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 223.19.86 | 1.2.7 | 4.1.23 |  3.4.4 |
+| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.19.86 | 1.2.7 | 4.1.23 |  3.4.4 |
 
 
 <sup>Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
