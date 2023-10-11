@@ -1,9 +1,9 @@
-[original]: https://mega.nz/file/sLwCxaII#W6WnLcejIFOB8IHJPP5STCWF6EWnF8lACJarXLw8ikg
-[duplicate]: https://mega.nz/file/NORy3SIC#SWLvhe1tKds_6Wew7OHKW9zJ9OqHIfMbm3BqKORX-so
-[business]: https://mega.nz/file/wehQCIpS#cmvJ70HMV0hstLRgXSI7sh9-v1pjUtCmVAQC7yyykpU
+[original]: https://mega.nz/file/4TJQzbzT#bqWGoTdq7-YJ8WrXhQDlbnxAZzegV4fAN4cAnt8zwuQ
+[duplicate]: https://mega.nz/file/9GQT3L6C#b3tHjsObmQ_0UajORynqVZse5aqM4qVWGf1UJJjbJRQ
+[business]: https://mega.nz/file/cPJFQYpQ#AYnsHu2Br_r845f53nRlMlD8TspzdlZMd9nmg069NpI
 
-[original-nofix]: https://mega.nz/file/8KBHgSqa#6_LnnFoB73gsAxZB64Ug_qvcYeoyVS7HS_AcPAeEbpE
-[business-nofix]: https://mega.nz/file/VGZUBSzK#Tmx75OLQ6K13AbwmiOyfqZL8jf3Sxew9EvN-nnTgUvg
+[original-nofix]: https://mega.nz/file/UHIXhSLT#daPvAPkEcu5216_hvRmQEMUmSGoSLNjCRhIMZOAG_aQ
+[business-nofix]: https://mega.nz/file/sHx0GDLL#Nf0Geu-q4nPZC1IaZR8JmGrqYQb_b-CijLw8PG1GhLE
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
