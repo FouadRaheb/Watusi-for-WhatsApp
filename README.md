@@ -35,11 +35,27 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 23.23.79 | 1.2.10 | 4.1.23 | 3.4.4 |
     | [WA Business][business] | net.whatsapp.WhatsAppSMB | 23.23.79 | 1.2.10 | 4.1.23 | 3.4.4 |
 
-    <sup>Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
+    <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
 * (Option 2) You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [builds.io][builds-io-watusi] since they always have the latest IPA from this page. Links: [Watusi][builds-io-watusi] - [Watusi Duplicate][builds-io-watusi-duplicate] - [Watusi WhatsApp Business][builds-io-watusi-business].
 
-* If you are on <b>iOS 14 - 15.1.1</b> (All devices) or <b>iOS 14 - 15.5 b4</b> (iPhone X and older), you should [Sideload with TrollStore](#sideloading-with-trollstore) to receive push notifications.
+### Sideloading (TrollStore)
+* If you are on <b>iOS 14 - 17.0</b> (iPhone X - A11 and older) or <b>iOS 14 - 16.6 beta 1</b> (iPhone 11 and newer), install with TrollStore to receive push notifications and use iCloud features:
+
+    * Install [TrollStore](https://github.com/opa334/TrollStore) (or [this guide](https://ios.cfw.guide/installing-trollstore/))
+    * Install and activate WhatsApp from the AppStore
+    * Download the IPA file from the table below
+    * Open IPA in TrollStore
+    * Install to overwrite original WhatsApp
+
+
+    <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
+    | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
+    | ------------------ |:---------:|:------:|:------:|:------:|:------:|
+    | [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 23.23.79 | 1.2.10 | 4.1.23 |  3.4.4 |
+    | [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.23.79 | 1.2.10 | 4.1.23 |  3.4.4 |
+    
+    <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
 ## Sideloading Guides
 
@@ -64,32 +80,6 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 * Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose the original IPA or com.fouadraheb.watusi for the duplicate)
 
 * Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
-</details>
-
-<details>
-<summary><h2>Sideloading with TrollStore</h2></summary>
-
-Available for <b>iOS 14 - 15.1.1</b> (All devices) and <b>iOS 14 - 15.5 b4</b> (iPhone X and older)
-
-1. Install and activate WhatsApp from the AppStore
-2. Install [TrollStore](https://github.com/opa334/TrollStore)
-3. Download the IPA file from the table below
-4. Open IPA in TrollStore
-5. Install to overwrite original WhatsApp
-
-<sub>
-The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.
-</sub>
-
-<br />
-
-| Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
-| ------------------ |:---------:|:------:|:------:|:------:|:------:|
-| [WhatsApp][original-nofix] | net.whatsapp.WhatsApp | 23.23.79 | 1.2.10 | 4.1.23 |  3.4.4 |
-| [WhatsApp Business][business-nofix] | net.whatsapp.WhatsAppSMB | 23.23.79 | 1.2.10 | 4.1.23 |  3.4.4 |
-
-
-<sup>Stalky, OnlineNotify and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 </details>
 
 <details>
