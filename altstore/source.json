@@ -1,71 +1,81 @@
 {
-    "name": "Fouad's Source",
-    "subtitle": "A source for all of apps by Fouad Raheb",
-    "description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
-    "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
-    "headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
-    "website": "https://fouadraheb.com/watusi",
-    "patreonURL": "https://patreon.com/FouadRaheb",
-    "tintColor": "#3d4652",
-    "featuredApps": ["net.whatsapp.WhatsApp", "com.fouadraheb.watusi", "net.whatsapp.WhatsAppSMB"],
-    "apps": [
-      {
-        "name": "Watusi",
-        "subtitle": "The all-in-one tweak for WhatsApp Messenger",
-        "bundleIdentifier": "net.whatsapp.WhatsApp",
-        "minOSVersion": "12.0",
-        "developerName": "Fouad Raheb",
-        "version": "1.2.14",
-        "versionDate": "2023-12-16T22:00:00",
-        "versionDescription": "Support WA 23.25.X",
-        "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsApp_v23.25.81_watusi3_1.2.14.ipa",
-        "localizedDescription": "This is an original version, it has original WhatsApp bundle ID. You need to delete original WhatsApp first before installing.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
-        "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-        "tintColor": "000000",
-        "size": 94400000,
-        "screenshotURLs": [
-          "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-          "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-        ]
-      },
-      {
-        "name": "Watusi (Duplicate)",
-        "bundleIdentifier": "com.fouadraheb.watusi",
-        "version": "1.2.14",
-        "versionDate": "2023-12-16T22:00:00",
-        "versionDescription": "Support WA 23.25.X",
-        "downloadURL": "https://archive.org/download/watusi3_1.2.14x/com.fouadraheb.watusi_v23.25.81_watusi3_1.2.14.ipa",
-        "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
-        "minOSVersion": "12.0",
-        "developerName": "Fouad Raheb",
-        "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp. (Bundle ID com.fouadraheb.watusi) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
-        "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-        "tintColor": "000000",
-        "size": 92700000,
-        "screenshotURLs": [
-            "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-            "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-        ]
-      },
-      {
-        "name": "Watusi (Business)",
-        "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-        "version": "1.2.14",
-        "versionDate": "2023-12-16T22:00:00",
-        "versionDescription": "Support WA 23.25.X",
-        "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsAppSMB_v23.25.81_watusi3_1.2.14.ipa",
-        "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
-        "minOSVersion": "12.0",
-        "developerName": "Fouad Raheb",
-        "localizedDescription": "This version has original WhatsApp Business bundle ID.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
-        "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-        "tintColor": "000000",
-        "size": 100300000,
-        "screenshotURLs": [
-            "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-            "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-        ]
-      }
-    ],
-    "news": []
-  }
+  "name": "Fouad's Source",
+  "subtitle": "A source for all of apps by Fouad Raheb",
+  "description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
+  "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
+  "website": "https://fouadraheb.com/watusi",
+  "patreonURL": "https://patreon.com/FouadRaheb",
+  "tintColor": "#3d4652",
+  "featuredApps": [
+    "net.whatsapp.WhatsApp",
+    "com.fouadraheb.watusi",
+    "net.whatsapp.WhatsAppSMB"
+  ],
+  "apps": [
+    {
+      "name": "Watusi",
+      "subtitle": "The all-in-one tweak for WhatsApp Messenger",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is an original version, it has original WhatsApp bundle ID. You need to delete original WhatsApp first before installing.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "tintColor": "000000",
+      "category": "social",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "1.2.14",
+          "date": "2023-12-16",
+          "localizedDescription": "Support WA 23.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsApp_v23.25.81_watusi3_1.2.14.ipa",
+          "size": 94400000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "version": "1.2.14",
+      "versionDate": "2023-12-16T00:20:00-06:00",
+      "versionDescription": "Support WA 23.25.X",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.14x/com.fouadraheb.watusi_v23.25.81_watusi3_1.2.14.ipa",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp. (Bundle ID com.fouadraheb.watusi) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "tintColor": "000000",
+      "size": 92700000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ]
+    },
+    {
+      "name": "Watusi (Business)",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "version": "1.2.14",
+      "versionDate": "2023-12-16T00:20:00-06:00",
+      "versionDescription": "Support WA 23.25.X",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsAppSMB_v23.25.81_watusi3_1.2.14.ipa",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This version has original WhatsApp Business bundle ID.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "tintColor": "000000",
+      "size": 100300000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ]
+    }
+  ],
+  "news": []
+}
