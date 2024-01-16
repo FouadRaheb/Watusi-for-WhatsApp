@@ -1,1 +1,7 @@
 .DS_Store
+
+generate.ts
+package.json
+tsconfig.json
+node_modules
+yarn.lock

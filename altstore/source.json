@@ -1,6 +1,6 @@
 {
   "name": "Fouad's Source",
-  "subtitle": "A source for all of apps by Fouad Raheb",
+  "subtitle": "A source for all apps by Fouad Raheb",
   "description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
   "headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/net.whatsapp.WhatsApp_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "23.25.81",
           "date": "2023-12-16",
           "localizedDescription": "Support WA 23.25.X",
@@ -54,6 +62,14 @@
       ],
       "versions": [
         {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/com.fouadraheb.watusi_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "23.25.81",
           "date": "2023-12-16",
           "localizedDescription": "Support WA 23.25.X",
@@ -78,6 +94,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/com.fouadraheb.watusi_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "23.25.81",
           "date": "2023-12-16",
