@@ -56,8 +56,8 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
-    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
+    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.1.80 | 1.2.18 | 4.1.24 |  3.4.4 |
+    | [WhatsApp Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.1.80 | 1.2.18 | 4.1.24 |  3.4.4 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
