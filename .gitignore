@@ -1,6 +1,7 @@
 .DS_Store
 
-generate.ts
+input
+generate.js
 package.json
 tsconfig.json
 node_modules

@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsApp_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.1.4",
           "date": "2024-01-16",
           "localizedDescription": "Support WA 24.1.X",
@@ -61,6 +69,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusi_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.1.4",
           "date": "2024-01-16",
@@ -95,6 +111,14 @@
       ],
       "versions": [
         {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsAppSMB_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.1.4",
           "date": "2024-01-16",
           "localizedDescription": "Support WA 24.1.X",
@@ -108,6 +132,31 @@
           "localizedDescription": "Support WA 23.25.X",
           "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsAppSMB_v23.25.81_watusi3_1.2.14.ipa",
           "size": 100300000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Business Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusiSMB_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
           "minOSVersion": "12.0"
         }
       ]
