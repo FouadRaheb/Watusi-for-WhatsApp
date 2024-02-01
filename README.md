@@ -1,10 +1,10 @@
-[original]: https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsApp_v24.1.80_watusi3_1.2.18.ipa
-[duplicate]: https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusi_v24.1.80_watusi3_1.2.18.ipa
-[business]: https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsAppSMB_v24.1.80_watusi3_1.2.18.ipa
-[business-duplicate]: https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusiSMB_v24.1.80_watusi3_1.2.18.ipa
+[original]: https://archive.org/download/watusi3_1.2.19/net.whatsapp.WhatsApp_v24.2.75_watusi3_1.2.19.ipa
+[duplicate]: https://archive.org/download/watusi3_1.2.19/com.fouadraheb.watusi_v24.2.75_watusi3_1.2.19.ipa
+[business]: https://archive.org/download/watusi3_1.2.19/net.whatsapp.WhatsAppSMB_v24.2.75_watusi3_1.2.19.ipa
+[business-duplicate]: https://archive.org/download/watusi3_1.2.19/com.fouadraheb.watusiSMB_v24.2.75_watusi3_1.2.19.ipa
 
-[original-ts]: https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsApp_v24.1.80_watusi3_1.2.18_nofix.ipa
-[business-ts]: https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsAppSMB_v24.1.80_watusi3_1.2.18_nofix.ipa
+[original-ts]: https://archive.org/download/watusi3_1.2.19/net.whatsapp.WhatsApp_v24.2.75_watusi3_1.2.19_nofix.ipa
+[business-ts]: https://archive.org/download/watusi3_1.2.19/net.whatsapp.WhatsAppSMB_v24.2.75_watusi3_1.2.19_nofix.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -34,10 +34,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
-    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
+    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -56,8 +56,8 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
-    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.1.80 | 1.2.18 | 4.1.24 | 3.4.4 |
+    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
+    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.2.75 | 1.2.19 | 4.1.24 | 3.4.4 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
@@ -93,13 +93,13 @@ Since WhatsApp added the option to link a device on mobile, you can now use the 
 
 * Install and activate original WhatsApp from the AppStore
 * Download and install [duplicated Watusi IPA](#sideloading-no-jailbreak) from the table above.
-* It is recommended to enable Watusi's `Local Notifications` feature on your duplicate to keep the app active while linking.
-  * Open duplicated Watusi, from the welcome screen, tap 3 times on the animated image and select `Watusi` preferences, go to the `Notifications` section and activate `Enable Local Notifications`, and set it to `Location`.
-* Move back to the welcome screen, tap `Agree and Continue`, and click on `Link this device` to get the QR Code. Screenshot this code and send it to another device.
+* Enable Watusi's `Local Notifications` feature on your duplicate to keep the app active while linking.
+  * Open duplicated Watusi, from the welcome screen, tap 3 times on the animated image and select `Watusi` preferences, go to the `Notifications` section and activate `Enable Local Notifications`, and set it to `Audio`.
+* Move back to the welcome screen, tap `Agree and Continue`, and click on `Link this device` to get the QR Code. Screenshot this code and send it to another device. (Keep Watusi open in background)
 * Switch to your original WhatsApp
   * Go to `Settings > Linked Devices > Link a Device`
-  * Scan the QR code from your other device and wait for it to link and load your chats
-* You can now disable the `Enable Local Notifications` feature from your duplicated app Watusi settings.
+  * Scan the QR code from your other device and wait for it to link and load your chats. The QR code is only valid for less than a minute.
+* Disable `Enable Local Notifications` feature from your duplicated app Watusi settings. Keeping it enabled is known to cause a logout and will require linking again.
 
 You will now receive notifications from your original WhatsApp and use the duplicated app with Watusi and other tweaks.
 
