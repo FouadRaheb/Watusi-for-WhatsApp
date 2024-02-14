@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+          "version": "24.3.76",
+          "date": "2024-02-14",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsApp_24.3.76_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.3.70",
           "date": "2024-02-01",
           "localizedDescription": "Support WA 24.3.X",
@@ -85,6 +93,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.3.76",
+          "date": "2024-02-14",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20_202402/com.fouadraheb.watusi_24.3.76_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.3.70",
           "date": "2024-02-01",
@@ -143,6 +159,14 @@
       ],
       "versions": [
         {
+          "version": "24.3.76",
+          "date": "2024-02-14",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsAppSMB_24.3.76_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.2.75",
           "date": "2024-02-01",
           "localizedDescription": "Support WA 24.3.X",
@@ -191,6 +215,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.3.76",
+          "date": "2024-02-14",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20_202402/com.fouadraheb.watusiSMB_24.3.76_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.2.75",
           "date": "2024-02-01",

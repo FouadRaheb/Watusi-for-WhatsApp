@@ -1,10 +1,10 @@
-[original]: https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsApp_24.3.70_watusi3_1.2.20.ipa
-[duplicate]: https://archive.org/download/watusi3_1.2.20/com.fouadraheb.watusi_24.3.70_watusi3_1.2.20.ipa
-[business]: https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsAppSMB_24.2.75_watusi3_1.2.20.ipa
-[business-duplicate]: https://archive.org/download/watusi3_1.2.20/com.fouadraheb.watusiSMB_24.2.75_watusi3_1.2.20.ipa
+[original]: https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsApp_24.3.76_watusi3_1.2.20.ipa
+[duplicate]: https://archive.org/download/watusi3_1.2.20_202402/com.fouadraheb.watusi_24.3.76_watusi3_1.2.20.ipa
+[business]: https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsAppSMB_24.3.76_watusi3_1.2.20.ipa
+[business-duplicate]: https://archive.org/download/watusi3_1.2.20_202402/com.fouadraheb.watusiSMB_24.3.76_watusi3_1.2.20.ipa
 
-[original-ts]: https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsApp_24.3.70_watusi3_1.2.20_nofix.ipa
-[business-ts]: https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsAppSMB_24.2.75_watusi3_1.2.20_nofix.ipa
+[original-ts]: https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsApp_24.3.76_watusi3_1.2.20_nofix.ipa
+[business-ts]: https://archive.org/download/watusi3_1.2.20_202402/net.whatsapp.WhatsAppSMB_24.3.76_watusi3_1.2.20_nofix.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -34,10 +34,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.3.70 | 1.2.20 | 4.1.24 | 3.4.4 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.3.70 | 1.2.20 | 4.1.24 | 3.4.4 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.2.75 | 1.2.20 | 4.1.24 | 3.4.4 |
-    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.2.75 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -56,8 +56,8 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.3.70 | 1.2.20 | 4.1.24 | 3.4.4 |
-    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.2.75 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
+    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.3.76 | 1.2.20 | 4.1.24 | 3.4.4 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
