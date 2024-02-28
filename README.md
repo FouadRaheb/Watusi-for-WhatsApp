@@ -1,10 +1,10 @@
 [original]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsApp_24.4.78_watusi3_1.2.25.ipa
 [duplicate]: https://archive.org/download/watusi3_1.2.25/com.fouadraheb.watusi_24.4.78_watusi3_1.2.25.ipa
-[business]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsAppSMB_24.4.78_watusi3_1.2.25.ipa
-[business-duplicate]: https://archive.org/download/watusi3_1.2.25/com.fouadraheb.watusiSMB_24.4.78_watusi3_1.2.25.ipa
+[business]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsAppSMB_4.4.78_watusi3_1.2.25.ipa
+[business-duplicate]: https://archive.org/download/watusi3_1.2.25/com.fouadraheb.watusiSMB_4.4.78_watusi3_1.2.25.ipa
 
 [original-ts]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsApp_24.4.78_watusi3_1.2.25_nofix.ipa
-[business-ts]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsAppSMB_24.4.78_watusi3_1.2.25_nofix.ipa
+[business-ts]: https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsAppSMB_4.4.78_watusi3_1.2.25_nofix.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
