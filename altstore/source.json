@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/net.whatsapp.WhatsApp_24.7.79_watusi3_1.2.30.ipa",
+          "size": 104131230,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.6.77",
           "date": "2024-03-30",
           "localizedDescription": "Support WA 24.6.X",
@@ -117,6 +125,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/com.fouadraheb.watusi_24.7.79_watusi3_1.2.30.ipa",
+          "size": 102303102,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.6.77",
           "date": "2024-03-30",
@@ -207,6 +223,14 @@
       ],
       "versions": [
         {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/net.whatsapp.WhatsAppSMB_24.7.79_watusi3_1.2.30.ipa",
+          "size": 110396188,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.6.77",
           "date": "2024-03-30",
           "localizedDescription": "Support WA 24.6.X",
@@ -287,6 +311,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/com.fouadraheb.watusiSMB_24.7.79_watusi3_1.2.30.ipa",
+          "size": 108499101,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.6.77",
           "date": "2024-03-30",
