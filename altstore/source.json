@@ -19,7 +19,7 @@
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "minOSVersion": "12.0",
       "developerName": "Fouad Raheb",
-      "localizedDescription": "This is an original version, it has original WhatsApp bundle ID. You need to delete original WhatsApp first before installing.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "localizedDescription": "This is an original version, it has original WhatsApp bundle ID. You need to delete original WhatsApp before installing.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
       "category": "social",
       "tintColor": "#31d84d",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
@@ -28,6 +28,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.9.4",
+          "date": "2024-05-08",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.31/net.whatsapp.WhatsApp_24.9.4_watusi3_1.2.31.ipa",
+          "size": 102833797,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.7.79",
           "date": "2024-04-12",
@@ -126,6 +134,14 @@
       ],
       "versions": [
         {
+          "version": "24.9.4",
+          "date": "2024-05-08",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.31/com.fouadraheb.watusi_24.9.4_watusi3_1.2.31.ipa",
+          "size": 100960417,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.7.79",
           "date": "2024-04-12",
           "localizedDescription": "Support WA 24.7.X",
@@ -223,6 +239,14 @@
       ],
       "versions": [
         {
+          "version": "24.9.76",
+          "date": "2024-05-08",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.31/net.whatsapp.WhatsAppSMB_24.9.76_watusi3_1.2.31.ipa",
+          "size": 109007043,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.7.79",
           "date": "2024-04-12",
           "localizedDescription": "Support WA 24.7.X",
@@ -311,6 +335,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.9.76",
+          "date": "2024-05-08",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.31/com.fouadraheb.watusiSMB_24.9.76_watusi3_1.2.31.ipa",
+          "size": 107059461,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.7.79",
           "date": "2024-04-12",
