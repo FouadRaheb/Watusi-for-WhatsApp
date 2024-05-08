@@ -12,6 +12,13 @@
 
 [flekstore-link]: https://flekstore.com/wa
 
+<p align="center">
+<a href="https://patreon.com/FouadRaheb">
+<img align="center" src="images/regram.png">
+</a>
+</p>
+
+
 <h1 align="center">
 Watusi for WhatsApp
 </h1>
