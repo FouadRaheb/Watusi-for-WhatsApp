@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/net.whatsapp.WhatsApp_24.11.80_watusi3_1.2.33.ipa",
+          "size": 103786649,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.9.4",
           "date": "2024-05-10",
           "localizedDescription": "Support WA 24.9.X",
@@ -133,6 +141,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/com.fouadraheb.watusi_24.11.80_watusi3_1.2.33.ipa",
+          "size": 101901011,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.9.4",
           "date": "2024-05-10",
@@ -239,6 +255,14 @@
       ],
       "versions": [
         {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/net.whatsapp.WhatsAppSMB_24.11.80_watusi3_1.2.33.ipa",
+          "size": 110143802,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.9.76",
           "date": "2024-05-10",
           "localizedDescription": "Support WA 24.9.X",
@@ -335,6 +359,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/com.fouadraheb.watusiSMB_24.11.80_watusi3_1.2.33.ipa",
+          "size": 108179352,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.9.76",
           "date": "2024-05-10",
