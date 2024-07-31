@@ -4,6 +4,7 @@
   "subtitle": "A source for all apps by Fouad Raheb",
   "description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
+  "sourceIconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
   "headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
   "website": "https://fouadraheb.com/watusi",
   "patreonURL": "https://patreon.com/FouadRaheb",
