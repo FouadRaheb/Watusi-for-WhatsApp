@@ -31,6 +31,14 @@
       ],
       "versions": [
         {
+          "version": "24.16.78",
+          "date": "2024-08-14",
+          "localizedDescription": "Support WA 24.16.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.39/net.whatsapp.WhatsApp_24.16.78_watusi3_1.2.39.ipa",
+          "size": 110497195,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.15.79",
           "date": "2024-07-31",
           "localizedDescription": "Support WA 24.15.X",
@@ -143,7 +151,7 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.15.79"
+      "version": "24.16.78"
     },
     {
       "name": "Watusi (Duplicate)",
@@ -160,6 +168,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.16.78",
+          "date": "2024-08-14",
+          "localizedDescription": "Support WA 24.16.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.39/com.fouadraheb.watusi_24.16.78_watusi3_1.2.39.ipa",
+          "size": 108392363,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.15.79",
           "date": "2024-07-31",
@@ -273,7 +289,7 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.15.79"
+      "version": "24.16.78"
     },
     {
       "name": "Watusi (Business)",
@@ -290,6 +306,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.16.78",
+          "date": "2024-08-14",
+          "localizedDescription": "Support WA 24.16.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.39/net.whatsapp.WhatsAppSMB_24.16.78_watusi3_1.2.39.ipa",
+          "size": 116974948,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.15.78",
           "date": "2024-07-31",
@@ -395,7 +419,7 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.15.78"
+      "version": "24.16.78"
     },
     {
       "name": "Watusi (Business Duplicate)",
@@ -412,6 +436,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "24.16.78",
+          "date": "2024-08-14",
+          "localizedDescription": "Support WA 24.16.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.39/com.fouadraheb.watusiSMB_24.16.78_watusi3_1.2.39.ipa",
+          "size": 114791438,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.15.78",
           "date": "2024-07-31",
@@ -501,7 +533,7 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.15.78"
+      "version": "24.16.78"
     }
   ],
   "news": []
