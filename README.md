@@ -11,6 +11,7 @@
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 [flekstore-link]: https://flekstore.com/wa
+[mega-folder-link]: https://mega.nz/folder/lfJz3ShB#HPKFfzb6UXsuOq1lAD3F8g
 
 <p align="center">
 <a href="https://patreon.com/FouadRaheb">
@@ -47,6 +48,8 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.16.78 | 1.2.39 | 4.1.28 | 3.4.5 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
+    
+    <sup>For faster download speeds, download files from this [mega.nz folder][mega-folder-link]</sup>
     
 * (Option 2) You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [https://flekstore.com)][flekstore-link] since they always have the latest official IPA from this page.
 
