@@ -159,7 +159,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.17.78"
+      "version": "24.17.78",
+      "versionDate": "2024-08-28",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsApp_24.17.78_watusi3_1.2.40.ipa",
+      "size": 111200429
     },
     {
       "name": "Watusi (Duplicate)",
@@ -305,7 +308,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.17.78"
+      "version": "24.17.78",
+      "versionDate": "2024-08-28",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.40/com.fouadraheb.watusi_24.17.78_watusi3_1.2.40.ipa",
+      "size": 109075187
     },
     {
       "name": "Watusi (Business)",
@@ -443,7 +449,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.17.78"
+      "version": "24.17.78",
+      "versionDate": "2024-08-28",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsAppSMB_24.17.78_watusi3_1.2.40.ipa",
+      "size": 117558645
     },
     {
       "name": "Watusi (Business Duplicate)",
@@ -565,7 +574,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "version": "24.17.78"
+      "version": "24.17.78",
+      "versionDate": "2024-08-28",
+      "downloadURL": "https://archive.org/download/watusi3_1.2.40/com.fouadraheb.watusiSMB_24.17.78_watusi3_1.2.40.ipa",
+      "size": 115353446
     }
   ],
   "news": []
