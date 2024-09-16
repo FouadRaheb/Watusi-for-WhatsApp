@@ -1,17 +1,17 @@
-[original]: https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsApp_24.17.78_watusi3_1.2.40.ipa
-[duplicate]: https://archive.org/download/watusi3_1.2.40/com.fouadraheb.watusi_24.17.78_watusi3_1.2.40.ipa
-[business]: https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsAppSMB_24.17.78_watusi3_1.2.40.ipa
-[business-duplicate]: https://archive.org/download/watusi3_1.2.40/com.fouadraheb.watusiSMB_24.17.78_watusi3_1.2.40.ipa
+[original]: https://archive.org/download/watusi3_1.2.41/net.whatsapp.WhatsApp_24.18.77_watusi3_1.2.41.ipa
+[duplicate]: https://archive.org/download/watusi3_1.2.41/com.fouadraheb.watusi_24.18.77_watusi3_1.2.41.ipa
+[business]: https://archive.org/download/watusi3_1.2.41/net.whatsapp.WhatsAppSMB_24.18.80_watusi3_1.2.41.ipa
+[business-duplicate]: https://archive.org/download/watusi3_1.2.41/com.fouadraheb.watusiSMB_24.18.80_watusi3_1.2.41.ipa
 
-[original-ts]: https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsApp_24.17.78_watusi3_1.2.40_ts.ipa
-[business-ts]: https://archive.org/download/watusi3_1.2.40/net.whatsapp.WhatsAppSMB_24.17.78_watusi3_1.2.40_ts.ipa
+[original-ts]: https://archive.org/download/watusi3_1.2.41/net.whatsapp.WhatsApp_24.18.77_watusi3_1.2.41_ts.ipa
+[business-ts]: https://archive.org/download/watusi3_1.2.41/net.whatsapp.WhatsAppSMB_24.18.80_watusi3_1.2.41_ts.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 [flekstore-link]: https://flekstore.com/wa
-[mega-folder-link]: https://mega.nz/folder/NDpEgKJD#sO0mmScn6kTVXFgAUvEfrg
+[mega-folder-link]: https://mega.nz/folder/FfAUmBIR#5PMjdHM0_j73wugUD2V2ag
 
 <p align="center">
 <a href="https://patreon.com/FouadRaheb">
@@ -42,10 +42,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
-    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.18.77 | 1.2.41 | 4.1.29 | 3.4.6 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.18.77 | 1.2.41 | 4.1.29 | 3.4.6 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.18.80 | 1.2.41 | 4.1.29 | 3.4.6 |
+    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.18.80 | 1.2.41 | 4.1.29 | 3.4.6 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -66,8 +66,8 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
-    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.17.78 | 1.2.40 | 4.1.29 | 3.4.6 |
+    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.18.77 | 1.2.41 | 4.1.29 | 3.4.6 |
+    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.18.80 | 1.2.41 | 4.1.29 | 3.4.6 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
