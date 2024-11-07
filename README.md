@@ -68,6 +68,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
+
     <sup>If you have issues with notifications, try using these TrollStore IPAs that doesn't inject into WhatsApp extensions. ([WhatsApp](https://mega.nz/file/Mfx3gRjD#CgJm2NaOgQRzl1axBQMqTvQ2l7vERAurNQoeZDPeSPI), [WABusiness](https://mega.nz/file/xLwmFKrD#qEmOUeIfWPmeL3NsNJoYbTQzyIvbWNTveSlgpugbI2Q))</sup>
 
 ## Sideloading Guides
