@@ -69,7 +69,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
-    <sup>If you have issues with notifications, try using these TrollStore IPAs that doesn't inject into WhatsApp extensions. ([WhatsApp](https://mega.nz/file/Mfx3gRjD#CgJm2NaOgQRzl1axBQMqTvQ2l7vERAurNQoeZDPeSPI), [WABusiness](https://mega.nz/file/xLwmFKrD#qEmOUeIfWPmeL3NsNJoYbTQzyIvbWNTveSlgpugbI2Q))</sup>
+    <sup>If you are having issues receiving notifications, try using these TrollStore IPAs that don't inject into WhatsApp extensions. ([WhatsApp](https://mega.nz/file/Mfx3gRjD#CgJm2NaOgQRzl1axBQMqTvQ2l7vERAurNQoeZDPeSPI), [WABusiness](https://mega.nz/file/xLwmFKrD#qEmOUeIfWPmeL3NsNJoYbTQzyIvbWNTveSlgpugbI2Q))</sup>
 
 ## Sideloading Guides
 
