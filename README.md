@@ -45,7 +45,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
     | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.24.83 | 1.2.50 | 4.1.33 | 3.4.11 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.24.83 | 1.2.48 | 4.1.33 | 3.4.11 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.24.83 | 1.2.50 | 4.1.33 | 3.4.11 |
     | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
     | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
 
