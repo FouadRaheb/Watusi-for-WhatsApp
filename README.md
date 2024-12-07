@@ -1,10 +1,12 @@
-[original]: https://mega.nz/file/1CpHCDZT#HboDg7_xPvvX-dmrEToY66D3cGVvE5JFpzHWFKUmu5Q
-[duplicate]: https://mega.nz/file/APQC2DhT#7h5U6louVkZ4MPmGtLEIYmwMr5FYcMfJx-rUNe3hyOw
-[business]: https://mega.nz/file/8XZwmTwR#UBIg70B1cXk37-sjlDXTd1_qi-CaJRBKZhu4j2i6vvw
-[business-duplicate]: https://mega.nz/file/sOhw2ZYQ#K1GyUBdUWc6VEseiQD7ZUz-ToDJwLxLSD1mWuMyECXw
+[original]: https://mega.nz/file/Ve4lBIaT#eHoNAnSDHsRto-FINamxILQG92b9aEWGLG4PHmUlK54
+[duplicate]: https://mega.nz/file/VWJyQZSI#8zKlU-ZOCPxixMEhrCzcarBBZrB-jsKk0CfbQ2nvsAI
+[business]: https://mega.nz/file/4fRCRKCL#UbBjuuUrKvCfaKZ9yZC2_NSkfhI7yRnJfII7VGA7wsI
+[business-duplicate]: https://mega.nz/file/hXwAkLJJ#3lB-wm66z39TWcKGMmJFF2Tzl8camZrbnwrzn1TB9E4
 
-[original-ts]: https://mega.nz/file/8ahjhRaT#kBmE8yYcekJkCH49PnnTAZnImifGuH78B6WFiinSNmM
-[business-ts]: https://mega.nz/file/QKhzCCja#o8M3obum8QnyG-kXldFpUoMRfM5MCdMB6dOCvw_5kvM
+[original-ts]: https://mega.nz/file/ka4jgYqQ#QAOwWIHsOZur9TKzFwDK7IH9Zv52zFy35ABFnkYQJ4g
+[business-ts]: https://mega.nz/file/UWJQhSZA#ku5-NOfnbDOsOdsjSjaFPV0Sn-lBZdvuFng9wyZgGho
+[original-ts-noplugs]: https://mega.nz/file/hb5CGRZS#-mJuCCnqXvbZFhKsrPtSi6hUo9w80DvCLJjljf-Jzgs
+[business-ts-noplugs]: https://mega.nz/file/pChgkIRS#caY2tioq0hUa7ohlZu0FqX4_W_05cno5tz8w2pf44mo
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -42,10 +44,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
-    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
-    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
-    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
+    | [WhatsApp][original] | net.whatsapp.WhatsApp | 24.24.82 | 1.2.50 | 4.1.33 | 3.4.11 |
+    | [WhatsApp Duplicate][duplicate] | com.fouadraheb.watusi | 24.24.50 | 1.2.48 | 4.1.33 | 3.4.11 |
+    | [WA Business][business] | net.whatsapp.WhatsAppSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
+    | [WA Business Duplicate][business-duplicate] | com.fouadraheb.watusiSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -64,12 +66,17 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
     | ------------------ |:---------:|:------:|:------:|:------:|:------:|
-    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
-    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.22.82 | 1.2.44 | 4.1.31 | 3.4.9 |
+    | [WhatsApp][original-ts] | net.whatsapp.WhatsApp | 24.24.82 | 1.2.50 | 4.1.33 | 3.4.11 |
+    | [WA Business][business-ts] | net.whatsapp.WhatsAppSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
-    <sup>If you have issues with notifications, try using these TrollStore IPAs that doesn't inject into WhatsApp extensions. ([WhatsApp](https://mega.nz/file/Mfx3gRjD#CgJm2NaOgQRzl1axBQMqTvQ2l7vERAurNQoeZDPeSPI), [WABusiness](https://mega.nz/file/xLwmFKrD#qEmOUeIfWPmeL3NsNJoYbTQzyIvbWNTveSlgpugbI2Q))</sup>
+    If you have issues with notifications, try using the below TrollStore IPAs that doesn't inject into WhatsApp extensions. This issue used to happen a few years ago on jailbroken devices (I wrote [this blog](https://blog.fouadraheb.com/posts/service-extension-notifications/#how-they-are-related) post about it back then)
+    | Application | Bundle | Version | Watusi 3 | Stalky | OnlineNotify |
+    | ------------------ |:---------:|:------:|:------:|:------:|:------:|
+    | [WhatsApp][original-ts-noplugs] | net.whatsapp.WhatsApp | 24.24.82 | 1.2.50 | 4.1.33 | 3.4.11 |
+    | [WA Business][business-ts-noplugs] | net.whatsapp.WhatsAppSMB | 24.23.82 | 1.2.50 | 4.1.33 | 3.4.11 |
+    
 
 ## Sideloading Guides
 
