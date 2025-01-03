@@ -132,3 +132,9 @@ Tips:
 * If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
 * Signing the app with a non-developer account will have it expire in 7 days, but AltStore automates re-signing as long as it is connected to your PC.
 * The app will not receive Push Notifications and you won't be able to use iCloud features (Except for TrollStore on supported devices).
+
+## Support
+If you need any assistance or have a feature request, feel free to contact us through the following channels.
+* Join our [Discord server](https://discord.gg/8z3zY93) and use the corresponding channel
+* Use the Contact Support button from the tweak settings
+* Send an email directly to [support@fouadraheb.com](https://fouadraheb.com/)
