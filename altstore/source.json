@@ -31,6 +31,14 @@
       ],
       "versions": [
         {
+          "version": "25.1.80",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 24.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsApp_25.1.80_watusi3_1.2.54_sl.ipa",
+          "size": 119132789,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "24.25.93",
           "date": "2025-01-09",
           "localizedDescription": "Support WA 24.25.X",
@@ -184,9 +192,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.52_202501/net.whatsapp.WhatsApp_24.25.93_watusi3_1.2.52_sl.ipa",
-      "size": 118749920,
-      "version": "24.25.93"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsApp_25.1.80_watusi3_1.2.54_sl.ipa",
+      "size": 119132789,
+      "version": "25.1.80"
     },
     {
       "name": "Watusi (Duplicate)",
@@ -203,6 +211,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.1.80",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 24.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusi_25.1.80_watusi3_1.2.54_sl.ipa",
+          "size": 117845511,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.25.93",
           "date": "2025-01-09",
@@ -357,9 +373,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.52_202501/com.fouadraheb.watusi_24.25.93_watusi3_1.2.52_sl.ipa",
-      "size": 117537840,
-      "version": "24.25.93"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusi_25.1.80_watusi3_1.2.54_sl.ipa",
+      "size": 117845511,
+      "version": "25.1.80"
     },
     {
       "name": "Watusi (Business)",
@@ -376,6 +392,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.1.83",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 24.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 126911617,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.25.90",
           "date": "2025-01-09",
@@ -522,9 +546,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.52_202501/net.whatsapp.WhatsAppSMB_24.25.90_watusi3_1.2.52_sl.ipa",
-      "size": 128391026,
-      "version": "24.25.90"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 126911617,
+      "version": "25.1.83"
     },
     {
       "name": "Watusi (Business Duplicate)",
@@ -541,6 +565,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.1.83",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 24.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 125622904,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "24.25.90",
           "date": "2025-01-09",
@@ -671,9 +703,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.52_202501/com.fouadraheb.watusiSMB_24.25.90_watusi3_1.2.52_sl.ipa",
-      "size": 127131334,
-      "version": "24.25.90"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 125622904,
+      "version": "25.1.83"
     }
   ],
   "news": []
