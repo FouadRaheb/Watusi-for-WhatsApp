@@ -31,6 +31,14 @@
       ],
       "versions": [
         {
+          "version": "25.1.83",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 25.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/net.whatsapp.WhatsApp_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 119115072,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "25.1.80",
           "date": "2025-01-09",
           "localizedDescription": "Support WA 24.25.X",
@@ -192,9 +200,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsApp_25.1.80_watusi3_1.2.54_sl.ipa",
-      "size": 119132789,
-      "version": "25.1.80"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/net.whatsapp.WhatsApp_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 119115072,
+      "version": "25.1.83"
     },
     {
       "name": "Watusi (Duplicate)",
@@ -211,6 +219,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.1.83",
+          "date": "2025-01-09",
+          "localizedDescription": "Support WA 25.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/com.fouadraheb.watusi_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 117827781,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "25.1.80",
           "date": "2025-01-09",
@@ -373,9 +389,9 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusi_25.1.80_watusi3_1.2.54_sl.ipa",
-      "size": 117845511,
-      "version": "25.1.80"
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/com.fouadraheb.watusi_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 117827781,
+      "version": "25.1.83"
     },
     {
       "name": "Watusi (Business)",
@@ -395,9 +411,9 @@
         {
           "version": "25.1.83",
           "date": "2025-01-09",
-          "localizedDescription": "Support WA 24.25.X",
-          "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
-          "size": 126911617,
+          "localizedDescription": "Support WA 25.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 126899252,
           "minOSVersion": "12.0"
         },
         {
@@ -546,8 +562,8 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.54/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
-      "size": 126911617,
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/net.whatsapp.WhatsAppSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 126899252,
       "version": "25.1.83"
     },
     {
@@ -568,9 +584,9 @@
         {
           "version": "25.1.83",
           "date": "2025-01-09",
-          "localizedDescription": "Support WA 24.25.X",
-          "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
-          "size": 125622904,
+          "localizedDescription": "Support WA 25.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+          "size": 125610539,
           "minOSVersion": "12.0"
         },
         {
@@ -703,8 +719,8 @@
         }
       ],
       "versionDate": "2025-01-09",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.54/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
-      "size": 125622904,
+      "downloadURL": "https://archive.org/download/watusi3_1.2.54-2/com.fouadraheb.watusiSMB_25.1.83_watusi3_1.2.54_sl.ipa",
+      "size": 125610539,
       "version": "25.1.83"
     }
   ],
