@@ -128,6 +128,24 @@ Tips:
 
 </details>
 
+<details>
+<summary><h2>Manually Backup and Restore Chats</h2></summary>
+
+Chats cannot be restored from iCloud to Sideloaded Watusi. However, you can manually back up and restore your chats in case you need to delete and reinstall the app.
+
+Your currently installed app must have the "Document Browser" feature enabled to access its data from the Files app.
+    
+1. Open the Files app and go to the WhatsApp folder.
+2. Select all items and copy them.
+3. Go back, create a new folder, and paste what you copied earlier.
+4. Delete WhatsApp from your device.
+5. Install the latest version of Watusi IPA, open it once, then close it from the background.
+6. Return to the Files app, go to the backup folder you created earlier, and copy all items.
+7. Go back to the WhatsApp folder, delete everything inside, then paste what you copied earlier.
+8. Open WhatsApp and complete the registration process. Your chats should now be restored.
+</details>
+
+
 ## FAQ
 * If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
 * Signing the app with a non-developer account will have it expire in 7 days, but AltStore automates re-signing as long as it is connected to your PC.
