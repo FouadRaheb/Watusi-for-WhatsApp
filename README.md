@@ -133,7 +133,7 @@ Tips:
 
 Chats cannot be restored from iCloud to Sideloaded Watusi. However, you can manually back up and restore your chats in case you need to delete and reinstall the app.
 
-Your currently installed app must have the "Document Browser" feature enabled to access its data from the Files app.
+The currently installed app must have the "Document Browser" feature enabled to access its data from the Files app. (All Watusi IPAs have this option enabled by default)
     
 1. Open the Files app and go to the WhatsApp folder.
 2. Select all items and copy them.
