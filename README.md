@@ -13,7 +13,7 @@
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 [flekstore-link]: https://flekstore.com/wa
-[mega-folder-link]: https://mega.nz/folder/UPgADK5L#zpS9_Cjr1jAwFYIheg6HDQ
+[changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3/changelogs
 
 <p align="center">
 <a href="https://patreon.com/FouadRaheb">
@@ -145,6 +145,9 @@ The currently installed app must have the "Document Browser" feature enabled to 
 8. Open WhatsApp and complete the registration process. Your chats should now be restored.
 </details>
 
+## Version History
+You can check Watusi's release notes from [this page][changelogs-link].<br/>
+Some versions are first released for Jailbroken devices and later for Sideloading.
 
 ## FAQ
 * If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
