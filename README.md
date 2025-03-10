@@ -13,7 +13,7 @@
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 [flekstore-link]: https://flekstore.com/wa
-[mega-folder-link]: https://mega.nz/folder/UPgADK5L#zpS9_Cjr1jAwFYIheg6HDQ
+[changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3/changelogs
 
 <p align="center">
 <a href="https://patreon.com/FouadRaheb">
@@ -133,7 +133,7 @@ Tips:
 
 Chats cannot be restored from iCloud to Sideloaded Watusi. However, you can manually back up and restore your chats in case you need to delete and reinstall the app.
 
-Your currently installed app must have the "Document Browser" feature enabled to access its data from the Files app.
+The currently installed app must have the "Document Browser" feature enabled to access its data from the Files app. (All Watusi IPAs have this option enabled by default)
     
 1. Open the Files app and go to the WhatsApp folder.
 2. Select all items and copy them.
@@ -145,6 +145,9 @@ Your currently installed app must have the "Document Browser" feature enabled to
 8. Open WhatsApp and complete the registration process. Your chats should now be restored.
 </details>
 
+## Version History
+You can check Watusi's release notes from [this page][changelogs-link].<br/>
+Some versions are first released for Jailbroken devices and later for Sideloading.
 
 ## FAQ
 * If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
