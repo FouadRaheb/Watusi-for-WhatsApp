@@ -31,6 +31,14 @@
       ],
       "versions": [
         {
+          "version": "25.7.77",
+          "date": "2025-03-19",
+          "localizedDescription": "Support WA 25.7.X",
+          "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/net.whatsapp.WhatsApp_25.7.77_watusi3_1.2.64_sl.ipa",
+          "size": 112960524,
+          "minOSVersion": "12.0"
+        },
+        {
           "version": "25.5.4",
           "date": "2025-03-10",
           "localizedDescription": "Support WA 25.5.X",
@@ -223,10 +231,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "versionDate": "2025-03-10",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.62/net.whatsapp.WhatsApp_25.5.4_watusi3_1.2.62_sl.ipa",
-      "size": 110913111,
-      "version": "25.5.4"
+      "versionDate": "2025-03-19",
+      "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/net.whatsapp.WhatsApp_25.7.77_watusi3_1.2.64_sl.ipa",
+      "size": 112960524,
+      "version": "25.7.77"
     },
     {
       "name": "Watusi (Duplicate)",
@@ -243,6 +251,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.7.77",
+          "date": "2025-03-19",
+          "localizedDescription": "Support WA 25.7.X",
+          "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/com.fouadraheb.watusi_25.7.77_watusi3_1.2.64_sl.ipa",
+          "size": 111712266,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "25.5.4",
           "date": "2025-03-10",
@@ -436,10 +452,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "versionDate": "2025-03-10",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.62/com.fouadraheb.watusi_25.5.4_watusi3_1.2.62_sl.ipa",
-      "size": 109683178,
-      "version": "25.5.4"
+      "versionDate": "2025-03-19",
+      "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/com.fouadraheb.watusi_25.7.77_watusi3_1.2.64_sl.ipa",
+      "size": 111712266,
+      "version": "25.7.77"
     },
     {
       "name": "Watusi (Business)",
@@ -456,6 +472,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.7.77",
+          "date": "2025-03-19",
+          "localizedDescription": "Support WA 25.7.X",
+          "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/net.whatsapp.WhatsAppSMB_25.7.77_watusi3_1.2.64_sl.ipa",
+          "size": 119597220,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "25.5.74",
           "date": "2025-03-10",
@@ -633,10 +657,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "versionDate": "2025-03-10",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.62/net.whatsapp.WhatsAppSMB_25.5.74_watusi3_1.2.62_sl.ipa",
-      "size": 116859440,
-      "version": "25.5.74"
+      "versionDate": "2025-03-19",
+      "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/net.whatsapp.WhatsAppSMB_25.7.77_watusi3_1.2.64_sl.ipa",
+      "size": 119597220,
+      "version": "25.7.77"
     },
     {
       "name": "Watusi (Business Duplicate)",
@@ -653,6 +677,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
       "versions": [
+        {
+          "version": "25.7.77",
+          "date": "2025-03-19",
+          "localizedDescription": "Support WA 25.7.X",
+          "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/com.fouadraheb.watusiSMB_25.7.77_watusi3_1.2.64_sl.ipa",
+          "size": 118347370,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "25.5.74",
           "date": "2025-03-10",
@@ -814,10 +846,10 @@
           "minOSVersion": "12.0"
         }
       ],
-      "versionDate": "2025-03-10",
-      "downloadURL": "https://archive.org/download/watusi3_1.2.62/com.fouadraheb.watusiSMB_25.5.74_watusi3_1.2.62_sl.ipa",
-      "size": 115628126,
-      "version": "25.5.74"
+      "versionDate": "2025-03-19",
+      "downloadURL": "https://cdn.fouadraheb.com/IPAs/Watusi/1.2.64/com.fouadraheb.watusiSMB_25.7.77_watusi3_1.2.64_sl.ipa",
+      "size": 118347370,
+      "version": "25.7.77"
     }
   ],
   "news": []
