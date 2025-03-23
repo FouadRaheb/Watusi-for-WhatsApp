@@ -131,6 +131,8 @@ Tips:
 <details>
 <summary><h2>Manually Backup and Restore Chats</h2></summary>
 
+Note: if you are using a duplicate as linked-device, you don't need to do this method as the chats will be sycned from main WhatsApp.
+
 Chats cannot be restored from iCloud to Sideloaded Watusi. However, you can manually back up and restore your chats in case you need to delete and reinstall the app.
 
 The currently installed app must have the "Document Browser" feature enabled to access its data from the Files app. (All Watusi IPAs have this option enabled by default)
