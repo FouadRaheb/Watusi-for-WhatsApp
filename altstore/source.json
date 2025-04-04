@@ -16,6 +16,114 @@
   ],
   "apps": [
     {
+      "id": "SL-IG",
+      "name": "Regram",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "minOSVersion": "15.1",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is an original version, it has original Instagram bundle ID. You need to delete original Instagram before installing.\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+      "category": "social",
+      "tintColor": "#ec4b56",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
+      ],
+      "versionDate": "2025-03-31",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_sl.ipa",
+      "size": 215291814,
+      "version": "374.1.10",
+      "versions": [
+        {
+          "version": "374.1.10",
+          "date": "2025-03-31",
+          "localizedDescription": "Support IG 374 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_sl.ipa",
+          "size": 215291814,
+          "minOSVersion": "15.1"
+        }
+      ]
+    },
+    {
+      "id": "SL-IG-NoPlugins",
+      "name": "Regram (No Plugins)",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "minOSVersion": "15.1",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is an original version, it has original Instagram bundle ID. You need to delete original Instagram before installing. It has Plugins/Extensions removed so it can be signed with free Apple IDs.\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+      "category": "social",
+      "tintColor": "#ec4b56",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
+      ],
+      "versionDate": "2025-03-31",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_no-plugins_sl.ipa",
+      "size": 162926243,
+      "version": "374.1.10",
+      "versions": [
+        {
+          "version": "374.1.10",
+          "date": "2025-03-31",
+          "localizedDescription": "Support IG 374 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_no-plugins_sl.ipa",
+          "size": 162926243,
+          "minOSVersion": "15.1"
+        }
+      ]
+    },
+    {
+      "id": "SL-IG-Duplicate",
+      "name": "Regram (Duplicate)",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regram",
+      "minOSVersion": "15.1",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram).\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+      "category": "social",
+      "tintColor": "#ec4b56",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
+      ],
+      "versionDate": "2025-03-31",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.fouadraheb.regram_374.1.10_regram_1.0.25_sl.ipa",
+      "size": 162926254,
+      "version": "374.1.10",
+      "versions": [
+        {
+          "version": "374.1.10",
+          "date": "2025-03-31",
+          "localizedDescription": "Support IG 374 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.fouadraheb.regram_374.1.10_regram_1.0.25_sl.ipa",
+          "size": 162926254,
+          "minOSVersion": "15.1"
+        }
+      ]
+    },
+    {
       "name": "Watusi",
       "subtitle": "The all-in-one tweak for WhatsApp Messenger",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
