@@ -36,20 +36,40 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-04-05",
+      "versionDate": "2025-04-05T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_no-plugins_sl.ipa",
       "size": 162925748,
       "version": "374.1.10",
       "versions": [
         {
           "version": "374.1.10",
-          "date": "2025-04-05",
+          "date": "2025-04-05T00:00:00Z",
           "localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_no-plugins_sl.ipa",
           "size": 162925748,
           "minOSVersion": "15.1"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      }
     },
     {
       "id": "SL-IG-Duplicate",
@@ -72,20 +92,40 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-04-05",
+      "versionDate": "2025-04-05T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.fouadraheb.regram_374.1.10_regram_1.0.26_sl.ipa",
       "size": 162925759,
       "version": "374.1.10",
       "versions": [
         {
           "version": "374.1.10",
-          "date": "2025-04-05",
+          "date": "2025-04-05T00:00:00Z",
           "localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.fouadraheb.regram_374.1.10_regram_1.0.26_sl.ipa",
           "size": 162925759,
           "minOSVersion": "15.1"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      }
     },
     {
       "name": "Watusi",
@@ -101,10 +141,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "versionDate": "2025-03-31T00:00:00Z",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
+      "size": 114280255,
+      "version": "25.8.74",
       "versions": [
         {
           "version": "25.8.74",
-          "date": "2025-03-31",
+          "date": "2025-03-31T00:00:00Z",
           "localizedDescription": "Support WA 25.8.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
           "size": 114280255,
@@ -310,11 +354,7 @@
           "size": 94400000,
           "minOSVersion": "12.0"
         }
-      ],
-      "versionDate": "2025-03-31",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
-      "size": 114280255,
-      "version": "25.8.74"
+      ]
     },
     {
       "name": "Watusi (Duplicate)",
@@ -330,10 +370,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "versionDate": "2025-03-31T00:00:00Z",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
+      "size": 113026352,
+      "version": "25.8.74",
       "versions": [
         {
           "version": "25.8.74",
-          "date": "2025-03-31",
+          "date": "2025-03-31T00:00:00Z",
           "localizedDescription": "Support WA 25.8.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
           "size": 113026352,
@@ -539,11 +583,7 @@
           "size": 92700000,
           "minOSVersion": "12.0"
         }
-      ],
-      "versionDate": "2025-03-31",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
-      "size": 113026352,
-      "version": "25.8.74"
+      ]
     },
     {
       "name": "Watusi (Business)",
@@ -559,10 +599,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "versionDate": "2025-03-31T00:00:00Z",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
+      "size": 121071363,
+      "version": "25.8.74",
       "versions": [
         {
           "version": "25.8.74",
-          "date": "2025-03-31",
+          "date": "2025-03-31T00:00:00Z",
           "localizedDescription": "Support WA 25.8.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
           "size": 121071363,
@@ -752,11 +796,7 @@
           "size": 100300000,
           "minOSVersion": "12.0"
         }
-      ],
-      "versionDate": "2025-03-31",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
-      "size": 121071363,
-      "version": "25.8.74"
+      ]
     },
     {
       "name": "Watusi (Business Duplicate)",
@@ -772,10 +812,14 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "versionDate": "2025-03-31T00:00:00Z",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
+      "size": 119817051,
+      "version": "25.8.74",
       "versions": [
         {
           "version": "25.8.74",
-          "date": "2025-03-31",
+          "date": "2025-03-31T00:00:00Z",
           "localizedDescription": "Support WA 25.8.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
           "size": 119817051,
@@ -949,11 +993,7 @@
           "size": 98901757,
           "minOSVersion": "12.0"
         }
-      ],
-      "versionDate": "2025-03-31",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
-      "size": 119817051,
-      "version": "25.8.74"
+      ]
     }
   ],
   "news": []
