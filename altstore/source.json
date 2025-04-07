@@ -141,6 +141,27 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
       "versionDate": "2025-03-31T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
       "size": 114280255,
@@ -370,6 +391,27 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
       "versionDate": "2025-03-31T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
       "size": 113026352,
@@ -599,6 +641,27 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
       "versionDate": "2025-03-31T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
       "size": 121071363,
@@ -812,6 +875,27 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
       ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
       "versionDate": "2025-03-31T00:00:00Z",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
       "size": 119817051,
