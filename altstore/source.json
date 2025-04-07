@@ -887,6 +887,7 @@
           "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
           "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
           "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
           "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
           "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
           "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
