@@ -35,11 +35,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-05-02T01:25:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_no-plugins_sl.ipa",
-      "size": 208906260,
-      "version": "378.0.0",
+      "versionDate": "2025-05-20T15:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.burbn.instagram_380.0.0_regram_1.0.30_no-plugins_sl.ipa",
+      "size": 177257118,
+      "version": "380.0.0",
       "versions": [
+        {
+          "version": "380.0.0",
+          "date": "2025-05-20T15:32:00+03:00",
+          "localizedDescription": "Regram 1.0.30, Support IG 380",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.burbn.instagram_380.0.0_regram_1.0.30_no-plugins_sl.ipa",
+          "size": 177257118,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "378.0.0",
           "date": "2025-05-02T01:25:00+03:00",
@@ -107,11 +115,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-05-02T01:25:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.fouadraheb.regram_378.0.0_regram_1.0.29_sl.ipa",
-      "size": 208906272,
-      "version": "378.0.0",
+      "versionDate": "2025-05-20T15:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.fouadraheb.regram_380.0.0_regram_1.0.30_sl.ipa",
+      "size": 177257130,
+      "version": "380.0.0",
       "versions": [
+        {
+          "version": "380.0.0",
+          "date": "2025-05-20T15:32:00+03:00",
+          "localizedDescription": "Regram 1.0.30, Support IG 380",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.fouadraheb.regram_380.0.0_regram_1.0.30_sl.ipa",
+          "size": 177257130,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "378.0.0",
           "date": "2025-05-02T01:25:00+03:00",
@@ -196,7 +212,7 @@
       },
       "versionDate": "2025-05-01T12:35:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
-      "size": 117789443,
+      "size": 117779554,
       "version": "25.13.77",
       "versions": [
         {
@@ -204,7 +220,7 @@
           "date": "2025-05-01T12:35:00+03:00",
           "localizedDescription": "Support WA 25.13.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
-          "size": 117789443,
+          "size": 117779554,
           "minOSVersion": "12.0"
         },
         {
@@ -271,7 +287,7 @@
       },
       "versionDate": "2025-05-01T12:35:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusi_25.13.77_watusi3_1.2.70_sl.ipa",
-      "size": 116502682,
+      "size": 116499377,
       "version": "25.13.77",
       "versions": [
         {
@@ -279,7 +295,7 @@
           "date": "2025-05-01T12:35:00+03:00",
           "localizedDescription": "Support WA 25.13.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusi_25.13.77_watusi3_1.2.70_sl.ipa",
-          "size": 116502682,
+          "size": 116499377,
           "minOSVersion": "12.0"
         },
         {
@@ -346,7 +362,7 @@
       },
       "versionDate": "2025-05-01T12:35:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsAppSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-      "size": 124857702,
+      "size": 124854397,
       "version": "25.13.74",
       "versions": [
         {
@@ -354,7 +370,7 @@
           "date": "2025-05-01T12:35:00+03:00",
           "localizedDescription": "Support WA 25.13.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsAppSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-          "size": 124857702,
+          "size": 124854397,
           "minOSVersion": "12.0"
         },
         {
@@ -421,7 +437,7 @@
       },
       "versionDate": "2025-05-01T12:35:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusiSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-      "size": 123570438,
+      "size": 123567133,
       "version": "25.13.74",
       "versions": [
         {
@@ -429,7 +445,7 @@
           "date": "2025-05-01T12:35:00+03:00",
           "localizedDescription": "Support WA 25.13.X",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusiSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-          "size": 123570438,
+          "size": 123567133,
           "minOSVersion": "12.0"
         },
         {
