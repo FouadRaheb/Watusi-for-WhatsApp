@@ -210,11 +210,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-05-01T12:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
-      "size": 117779554,
-      "version": "25.13.77",
+      "versionDate": "2025-06-07T10:25:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsApp_25.17.6_watusi3_1.2.74_sl.ipa",
+      "size": 120916837,
+      "version": "25.17.6",
       "versions": [
+        {
+          "version": "25.17.6",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsApp_25.17.6_watusi3_1.2.74_sl.ipa",
+          "size": 120916837,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.13.77",
           "date": "2025-05-01T12:35:00+03:00",
@@ -285,11 +293,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-05-01T12:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusi_25.13.77_watusi3_1.2.70_sl.ipa",
-      "size": 116499377,
-      "version": "25.13.77",
+      "versionDate": "2025-06-07T10:25:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusi_25.17.6_watusi3_1.2.74_sl.ipa",
+      "size": 119614134,
+      "version": "25.17.6",
       "versions": [
+        {
+          "version": "25.17.6",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusi_25.17.6_watusi3_1.2.74_sl.ipa",
+          "size": 119614134,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.13.77",
           "date": "2025-05-01T12:35:00+03:00",
@@ -360,11 +376,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-05-01T12:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsAppSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-      "size": 124854397,
-      "version": "25.13.74",
+      "versionDate": "2025-06-07T10:25:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsAppSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+      "size": 126665731,
+      "version": "25.16.81",
       "versions": [
+        {
+          "version": "25.16.81",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsAppSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+          "size": 126665731,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.13.74",
           "date": "2025-05-01T12:35:00+03:00",
@@ -435,11 +459,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-05-01T12:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusiSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-      "size": 123567133,
-      "version": "25.13.74",
+      "versionDate": "2025-06-07T10:25:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusiSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+      "size": 125364303,
+      "version": "25.16.81",
       "versions": [
+        {
+          "version": "25.16.81",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusiSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+          "size": 125364303,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.13.74",
           "date": "2025-05-01T12:35:00+03:00",
