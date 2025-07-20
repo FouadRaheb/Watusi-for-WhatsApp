@@ -35,11 +35,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-06-30T20:40:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.burbn.instagram_386.0.0_regram_1.0.33_no-plugins_sl.ipa",
-      "size": 190538300,
-      "version": "386.0.0",
+      "versionDate": "2025-07-20T12:15:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.burbn.instagram_389.0.0_regram_1.0.34_no-plugins_sl.ipa",
+      "size": 190787673,
+      "version": "389.0.0",
       "versions": [
+        {
+          "version": "389.0.0",
+          "date": "2025-07-20T12:15:00+03:00",
+          "localizedDescription": "Regram 1.0.34, Support IG 389",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.burbn.instagram_389.0.0_regram_1.0.34_no-plugins_sl.ipa",
+          "size": 190787673,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "386.0.0",
           "date": "2025-06-30T20:40:00+03:00",
@@ -131,11 +139,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-06-30T20:40:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.fouadraheb.regram_386.0.0_regram_1.0.33_sl.ipa",
-      "size": 190538313,
-      "version": "386.0.0",
+      "versionDate": "2025-07-20T12:15:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.fouadraheb.regram_389.0.0_regram_1.0.34_sl.ipa",
+      "size": 190787683,
+      "version": "389.0.0",
       "versions": [
+        {
+          "version": "389.0.0",
+          "date": "2025-07-20T12:15:00+03:00",
+          "localizedDescription": "Regram 1.0.34, Support IG 389",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.fouadraheb.regram_389.0.0_regram_1.0.34_sl.ipa",
+          "size": 190787683,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "386.0.0",
           "date": "2025-06-30T20:40:00+03:00",
