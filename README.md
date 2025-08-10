@@ -13,6 +13,7 @@
 [builds-io-watusi-business]: https://builds.io/apps/whatsappb/?aid=1025553
 
 [flekstore-link]: https://flekstore.com/wa
+[kravasign-link]: https://kravasign.com/fouadraheb
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3/changelogs
 
 <p align="center">
@@ -51,7 +52,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
-* (Option 2) You can get a paid subscription from a signing store where you can download the latest Watusi directly from your device and have it available for 1 year instead of 7 days. I recommend using [https://flekstore.com)][flekstore-link] since they always have the latest official IPA from this page.
+* (Option 2) You can use a signing certificate to download the latest Watusi directly to your device and keep it valid for 1 year instead of just 7 days.<br/>[KravaSign][kravasign-link] is one of the most reliable and affordable options for sideloading, you can add our sideloading source (https://altstore.fouadraheb.com) to it to download the apps directly.
 
 ### Sideloading (TrollStore)
 * If you are on <b>iOS 14 - 16.6.1</b> (iPhone X - A11 and older) or <b>iOS 14 - 16.6 beta 1</b> (iPhone 11 and newer), install with TrollStore to receive push notifications and use iCloud features:
