@@ -52,7 +52,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
-* (Option 2) You can use a signing certificate to download the latest Watusi directly to your device and keep it valid for 1 year instead of just 7 days.<br/>[KravaSign][kravasign-link] is one of the most reliable and affordable options for sideloading, you can add our sideloading source (https://altstore.fouadraheb.com) to it to download the apps directly.
+* (Option 2) You can use a signing certificate to download the latest Watusi directly to your device and keep it valid for 1 year instead of just 7 days.<br/>[Flekstore][flekstore-link] is one of the most reliable options for sideloading, you can add our sideloading source (https://altstore.fouadraheb.com) to it to download the apps directly.
 
 ### Sideloading (TrollStore)
 * If you are on <b>iOS 14 - 16.6.1</b> (iPhone X - A11 and older) or <b>iOS 14 - 16.6 beta 1</b> (iPhone 11 and newer), install with TrollStore to receive push notifications and use iCloud features:
