@@ -1,792 +1,799 @@
 {
-	"name": "Fouad's Source",
-	"identifier": "com.fouadraheb.apps-source",
-	"subtitle": "A source for all apps by Fouad Raheb",
-	"description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
-	"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
-	"sourceIconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
-	"headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
-	"website": "https://fouadraheb.com/watusi",
-	"patreonURL": "https://patreon.com/FouadRaheb",
-	"tintColor": "#5c687f",
-	"featuredApps": ["com.burbn.instagram", "com.fouadraheb.watusi"],
-	"META": {
-		"repoName": "Fouad's Source",
-		"repoIcon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png"
-	},
-	"apps": [
-		{
-			"id": "SL-IG-NoPlugins",
-			"name": "Regram",
-			"subtitle": "The all-in-one tweak for Instagram",
-			"bundleIdentifier": "com.burbn.instagram",
-			"bundleID": "com.burbn.instagram",
-			"minOSVersion": "15.1",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "This is an original version, it has original Instagram bundle ID. You need to delete original Instagram before installing. It has Plugins/Extensions removed so it can be signed with free Apple IDs.\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
-			"category": "social",
-			"tintColor": "#ec4b56",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
-			],
-			"versionDate": "2025-08-T23:04:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
-			"size": 198916208,
-			"version": "395.0.0",
-			"versions": [
-				{
-					"version": "395.0.0",
-					"date": "2025-08-T23:04:00+03:00",
-					"localizedDescription": "Regram 1.0.36, Support IG 395",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
-					"size": 198916208,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "392.0.0",
-					"date": "2025-08-10T11:15:00+03:00",
-					"localizedDescription": "Regram 1.0.35, Support IG 392",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.burbn.instagram_392.0.0_regram_1.0.35_no-plugins_sl.ipa",
-					"size": 193012187,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "389.0.0",
-					"date": "2025-07-20T12:15:00+03:00",
-					"localizedDescription": "Regram 1.0.34, Support IG 389",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.burbn.instagram_389.0.0_regram_1.0.34_no-plugins_sl.ipa",
-					"size": 190780972,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "386.0.0",
-					"date": "2025-06-30T20:40:00+03:00",
-					"localizedDescription": "Regram 1.0.33, Support IG 386",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.burbn.instagram_386.0.0_regram_1.0.33_no-plugins_sl.ipa",
-					"size": 190538300,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "384.0.0",
-					"date": "2025-06-12T11:20:00+03:00",
-					"localizedDescription": "Regram 1.0.31, Support IG 384",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.burbn.instagram_384.0.0_regram_1.0.31_no-plugins_sl.ipa",
-					"size": 179874489,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "380.0.0",
-					"date": "2025-05-20T16:50:00+03:00",
-					"localizedDescription": "Regram 1.0.30, Support IG 380",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.burbn.instagram_380.0.0_regram_1.0.30_no-plugins_sl.ipa",
-					"size": 177257118,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "378.0.0",
-					"date": "2025-05-02T01:25:00+03:00",
-					"localizedDescription": "Regram 1.0.29, Support IG 377/378",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_no-plugins_sl.ipa",
-					"size": 208906260,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "376.0.0",
-					"date": "2025-04-17T13:05:00+03:00",
-					"localizedDescription": "Regram 1.0.27, Support IG 376 & much more",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.27/com.burbn.instagram_376.0.0_regram_1.0.27_no-plugins_sl.ipa",
-					"size": 164349929,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "374.1.10",
-					"date": "2025-04-05T00:00:00Z",
-					"localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_no-plugins_sl.ipa",
-					"size": 162925748,
-					"minOSVersion": "15.1"
-				}
-			],
-			"appPermissions": {
-				"entitlements": ["get-task-allow"],
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
-					"NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-					"NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-					"NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
-					"NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-					"NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
-					"NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-					"NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
-				}
-			}
-		},
-		{
-			"id": "SL-IG-Duplicate",
-			"name": "Regram (Duplicate)",
-			"subtitle": "The all-in-one tweak for Instagram",
-			"bundleIdentifier": "com.fouadraheb.regram",
-			"bundleID": "com.fouadraheb.regram",
-			"minOSVersion": "15.1",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram).\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
-			"category": "social",
-			"tintColor": "#ec4b56",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
-			],
-			"versionDate": "2025-08-T23:04:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
-			"size": 198916220,
-			"version": "395.0.0",
-			"versions": [
-				{
-					"version": "395.0.0",
-					"date": "2025-08-T23:04:00+03:00",
-					"localizedDescription": "Regram 1.0.36, Support IG 395",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
-					"size": 198916220,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "392.0.0",
-					"date": "2025-08-10T11:15:00+03:00",
-					"localizedDescription": "Regram 1.0.35, Support IG 392",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.fouadraheb.regram_392.0.0_regram_1.0.35_sl.ipa",
-					"size": 193012198,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "389.0.0",
-					"date": "2025-07-20T12:15:00+03:00",
-					"localizedDescription": "Regram 1.0.34, Support IG 389",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.fouadraheb.regram_389.0.0_regram_1.0.34_sl.ipa",
-					"size": 190780982,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "386.0.0",
-					"date": "2025-06-30T20:40:00+03:00",
-					"localizedDescription": "Regram 1.0.33, Support IG 386",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.fouadraheb.regram_386.0.0_regram_1.0.33_sl.ipa",
-					"size": 190538313,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "384.0.0",
-					"date": "2025-06-12T11:20:00+03:00",
-					"localizedDescription": "Regram 1.0.31, Support IG 384",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.fouadraheb.regram_384.0.0_regram_1.0.31_sl.ipa",
-					"size": 179874500,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "380.0.0",
-					"date": "2025-05-20T16:50:00+03:00",
-					"localizedDescription": "Regram 1.0.30, Support IG 380",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.fouadraheb.regram_380.0.0_regram_1.0.30_sl.ipa",
-					"size": 177257130,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "378.0.0",
-					"date": "2025-05-02T01:25:00+03:00",
-					"localizedDescription": "Regram 1.0.29, Support IG 377/378",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.fouadraheb.regram_378.0.0_regram_1.0.29_sl.ipa",
-					"size": 208906272,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "376.0.0",
-					"date": "2025-04-17T13:05:00+03:00",
-					"localizedDescription": "Regram 1.0.27, Support IG 376 & much more",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.27/com.fouadraheb.regram_376.0.0_regram_1.0.27_sl.ipa",
-					"size": 164349941,
-					"minOSVersion": "15.1"
-				},
-				{
-					"version": "374.1.10",
-					"date": "2025-04-05T00:00:00Z",
-					"localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.fouadraheb.regram_374.1.10_regram_1.0.26_sl.ipa",
-					"size": 162925759,
-					"minOSVersion": "15.1"
-				}
-			],
-			"appPermissions": {
-				"entitlements": ["get-task-allow"],
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
-					"NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-					"NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-					"NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
-					"NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-					"NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-					"NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
-					"NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-					"NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
-				}
-			}
-		},
-		{
-			"name": "Watusi",
-			"subtitle": "The all-in-one tweak for WhatsApp Messenger",
-			"bundleIdentifier": "net.whatsapp.WhatsApp",
-			"bundleID": "net.whatsapp.WhatsApp",
-			"minOSVersion": "12.0",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is an original version, it has original WhatsApp bundle ID, you need to delete original WhatsApp before installing.",
-			"category": "social",
-			"tintColor": "#31d84d",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-			],
-			"appPermissions": {
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-					"NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-					"NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-					"NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-					"NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-					"NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
-					"NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-					"NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-					"NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-					"NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-					"NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-					"NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
-				}
-			},
-			"versionDate": "2025-08-22T14:32:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsApp_25.22.83_watusi3_1.2.83_sl.ipa",
-			"size": 112077613,
-			"version": "25.22.83",
-			"versions": [
-				{
-					"version": "25.22.83",
-					"date": "2025-08-22T14:32:00+03:00",
-					"localizedDescription": "Support WA 25.22.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsApp_25.22.83_watusi3_1.2.83_sl.ipa",
-					"size": 112077613,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.80",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsApp_25.21.80_watusi3_1.2.80_sl.ipa",
-					"size": 111353453,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.83",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsApp_25.21.83_watusi3_1.2.80_sl.ipa",
-					"size": 0,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.20.83",
-					"date": "2025-07-25T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.20.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/net.whatsapp.WhatsApp_25.20.83_watusi3_1.2.78_sl.ipa",
-					"size": 116304585,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.19.83",
-					"date": "2025-07-11T14:52:00+03:00",
-					"localizedDescription": "Support WA 25.19.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/net.whatsapp.WhatsApp_25.19.83_watusi3_1.2.77_sl.ipa",
-					"size": 123825095,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.18.86",
-					"date": "2025-06-30T19:40:00+03:00",
-					"localizedDescription": "Support WA 25.18.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/net.whatsapp.WhatsApp_25.18.86_watusi3_1.2.76_sl.ipa",
-					"size": 122975619,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.17.6",
-					"date": "2025-06-07T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsApp_25.17.6_watusi3_1.2.74_sl.ipa",
-					"size": 120916837,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.13.77",
-					"date": "2025-05-01T12:35:00+03:00",
-					"localizedDescription": "Support WA 25.13.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
-					"size": 117779554,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.12.73",
-					"date": "2025-04-25T11:30:34+03:00",
-					"localizedDescription": "Support WA 25.12.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/net.whatsapp.WhatsApp_25.12.73_watusi3_1.2.69_sl.ipa",
-					"size": 117142105,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.10.72",
-					"date": "2025-04-09T13:59:34+03:00",
-					"localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/net.whatsapp.WhatsApp_25.10.72_watusi3_1.2.68_sl.ipa",
-					"size": 115086349,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.8.74",
-					"date": "2025-03-31T00:00:00Z",
-					"localizedDescription": "Support WA 25.8.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
-					"size": 114280255,
-					"minOSVersion": "12.0"
-				}
-			]
-		},
-		{
-			"name": "Watusi (Duplicate)",
-			"bundleIdentifier": "com.fouadraheb.watusi",
-			"bundleID": "com.fouadraheb.watusi",
-			"subtitle": "Your all-in-one tweak for WhatsApp Messenger",
-			"minOSVersion": "12.0",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.fouadraheb.watusi).",
-			"category": "social",
-			"tintColor": "#31d84d",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-			],
-			"appPermissions": {
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-					"NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-					"NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-					"NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-					"NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-					"NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
-					"NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-					"NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-					"NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-					"NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-					"NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-					"NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
-				}
-			},
-			"versionDate": "2025-08-22T14:32:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusi_25.22.83_watusi3_1.2.83_sl.ipa",
-			"size": 110755443,
-			"version": "25.22.83",
-			"versions": [
-				{
-					"version": "25.22.83",
-					"date": "2025-08-22T14:32:00+03:00",
-					"localizedDescription": "Support WA 25.22.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusi_25.22.83_watusi3_1.2.83_sl.ipa",
-					"size": 110755443,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.80",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusi_25.21.80_watusi3_1.2.80_sl.ipa",
-					"size": 110051742,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.83",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusi_25.21.83_watusi3_1.2.80_sl.ipa",
-					"size": 0,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.20.83",
-					"date": "2025-07-25T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.20.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/com.fouadraheb.watusi_25.20.83_watusi3_1.2.78_sl.ipa",
-					"size": 114964415,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.19.83",
-					"date": "2025-07-11T14:52:00+03:00",
-					"localizedDescription": "Support WA 25.19.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/com.fouadraheb.watusi_25.19.83_watusi3_1.2.77_sl.ipa",
-					"size": 122468538,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.18.86",
-					"date": "2025-06-30T19:40:00+03:00",
-					"localizedDescription": "Support WA 25.18.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/com.fouadraheb.watusi_25.18.86_watusi3_1.2.76_sl.ipa",
-					"size": 121631755,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.17.6",
-					"date": "2025-06-07T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusi_25.17.6_watusi3_1.2.74_sl.ipa",
-					"size": 119614134,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.13.77",
-					"date": "2025-05-01T12:35:00+03:00",
-					"localizedDescription": "Support WA 25.13.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusi_25.13.77_watusi3_1.2.70_sl.ipa",
-					"size": 116499377,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.12.73",
-					"date": "2025-04-25T11:30:34+03:00",
-					"localizedDescription": "Support WA 25.12.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/com.fouadraheb.watusi_25.12.73_watusi3_1.2.69_sl.ipa",
-					"size": 115868515,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.10.72",
-					"date": "2025-04-09T13:59:34+03:00",
-					"localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/com.fouadraheb.watusi_25.10.72_watusi3_1.2.68_sl.ipa",
-					"size": 113816550,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.8.74",
-					"date": "2025-03-31T00:00:00Z",
-					"localizedDescription": "Support WA 25.8.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
-					"size": 113026352,
-					"minOSVersion": "12.0"
-				}
-			]
-		},
-		{
-			"name": "Watusi (Business)",
-			"bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-			"bundleID": "net.whatsapp.WhatsAppSMB",
-			"subtitle": "Your all-in-one tweak for WhatsApp Messenger",
-			"minOSVersion": "12.0",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "This version has original WhatsApp Business bundle ID.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
-			"category": "social",
-			"tintColor": "#31d84d",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-			],
-			"appPermissions": {
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-					"NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-					"NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-					"NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-					"NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-					"NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
-					"NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-					"NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-					"NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-					"NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-					"NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-					"NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
-				}
-			},
-			"versionDate": "2025-08-22T14:32:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsAppSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-			"size": 118585897,
-			"version": "25.22.79",
-			"versions": [
-				{
-					"version": "25.22.79",
-					"date": "2025-08-22T14:32:00+03:00",
-					"localizedDescription": "Support WA 25.22.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsAppSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-					"size": 118585897,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.80",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsAppSMB_25.21.80_watusi3_1.2.80_sl.ipa",
-					"size": 117711331,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.83",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsAppSMB_25.21.83_watusi3_1.2.80_sl.ipa",
-					"size": 0,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.20.83",
-					"date": "2025-07-25T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.20.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/net.whatsapp.WhatsAppSMB_25.20.83_watusi3_1.2.78_sl.ipa",
-					"size": 123001512,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.19.83",
-					"date": "2025-07-11T14:52:00+03:00",
-					"localizedDescription": "Support WA 25.19.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/net.whatsapp.WhatsAppSMB_25.19.83_watusi3_1.2.77_sl.ipa",
-					"size": 131517374,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.18.86",
-					"date": "2025-06-30T19:40:00+03:00",
-					"localizedDescription": "Support WA 25.18.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/net.whatsapp.WhatsAppSMB_25.18.86_watusi3_1.2.76_sl.ipa",
-					"size": 129923767,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.16.81",
-					"date": "2025-06-07T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsAppSMB_25.16.81_watusi3_1.2.74_sl.ipa",
-					"size": 126665731,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.13.74",
-					"date": "2025-05-01T12:35:00+03:00",
-					"localizedDescription": "Support WA 25.13.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsAppSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-					"size": 124854397,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.12.73",
-					"date": "2025-04-25T11:30:34+03:00",
-					"localizedDescription": "Support WA 25.12.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/net.whatsapp.WhatsAppSMB_25.12.73_watusi3_1.2.69_sl.ipa",
-					"size": 124241048,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.10.72",
-					"date": "2025-04-09T13:59:34+03:00",
-					"localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/net.whatsapp.WhatsAppSMB_25.10.72_watusi3_1.2.68_sl.ipa",
-					"size": 121952108,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.8.74",
-					"date": "2025-03-31T00:00:00Z",
-					"localizedDescription": "Support WA 25.8.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
-					"size": 121071363,
-					"minOSVersion": "12.0"
-				}
-			]
-		},
-		{
-			"name": "Watusi (Business Duplicate)",
-			"bundleIdentifier": "com.fouadraheb.watusiSMB",
-			"bundleID": "com.fouadraheb.watusiSMB",
-			"subtitle": "Your all-in-one tweak for WhatsApp Messenger",
-			"minOSVersion": "12.0",
-			"developerName": "Fouad Raheb",
-			"localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
-			"category": "social",
-			"tintColor": "#31d84d",
-			"iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-			"icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
-				"https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
-			],
-			"appPermissions": {
-				"privacy": {
-					"NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-					"NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-					"NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-					"NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-					"NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-					"NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-					"NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-					"NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-					"NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
-					"NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-					"NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-					"NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-					"NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-					"NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-					"NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-					"NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
-				}
-			},
-			"versionDate": "2025-08-22T14:32:00+03:00",
-			"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusiSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-			"size": 117258172,
-			"version": "25.22.79",
-			"versions": [
-				{
-					"version": "25.22.79",
-					"date": "2025-08-22T14:32:00+03:00",
-					"localizedDescription": "Support WA 25.22.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusiSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-					"size": 117258172,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.80",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusiSMB_25.21.80_watusi3_1.2.80_sl.ipa",
-					"size": 116403987,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.21.83",
-					"date": "2025-08-10T20:28:00+03:00",
-					"localizedDescription": "Support WA 25.21.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusiSMB_25.21.83_watusi3_1.2.80_sl.ipa",
-					"size": 0,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.20.83",
-					"date": "2025-07-25T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.20.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/com.fouadraheb.watusiSMB_25.20.83_watusi3_1.2.78_sl.ipa",
-					"size": 121655856,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.19.83",
-					"date": "2025-07-11T14:52:00+03:00",
-					"localizedDescription": "Support WA 25.19.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/com.fouadraheb.watusiSMB_25.19.83_watusi3_1.2.77_sl.ipa",
-					"size": 130155572,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.18.86",
-					"date": "2025-06-30T19:40:00+03:00",
-					"localizedDescription": "Support WA 25.18.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/com.fouadraheb.watusiSMB_25.18.86_watusi3_1.2.76_sl.ipa",
-					"size": 128576487,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.16.81",
-					"date": "2025-06-07T10:25:00+03:00",
-					"localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusiSMB_25.16.81_watusi3_1.2.74_sl.ipa",
-					"size": 125364303,
-					"minOSVersion": "14.0"
-				},
-				{
-					"version": "25.13.74",
-					"date": "2025-05-01T12:35:00+03:00",
-					"localizedDescription": "Support WA 25.13.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusiSMB_25.13.74_watusi3_1.2.70_sl.ipa",
-					"size": 123567133,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.12.73",
-					"date": "2025-04-25T11:30:34+03:00",
-					"localizedDescription": "Support WA 25.12.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/com.fouadraheb.watusiSMB_25.12.73_watusi3_1.2.69_sl.ipa",
-					"size": 122966786,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.10.72",
-					"date": "2025-04-09T13:59:34+03:00",
-					"localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/com.fouadraheb.watusiSMB_25.10.72_watusi3_1.2.68_sl.ipa",
-					"size": 120681304,
-					"minOSVersion": "12.0"
-				},
-				{
-					"version": "25.8.74",
-					"date": "2025-03-31T00:00:00Z",
-					"localizedDescription": "Support WA 25.8.X",
-					"downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
-					"size": 119817051,
-					"minOSVersion": "12.0"
-				}
-			]
-		}
-	],
-	"news": []
+  "name": "Fouad's Source",
+  "identifier": "com.fouadraheb.apps-source",
+  "subtitle": "A source for all apps by Fouad Raheb",
+  "description": "This source will include all the Sideloading IPA updates for current and upcoming tweaks.",
+  "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
+  "sourceIconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/header.jpg",
+  "website": "https://fouadraheb.com/watusi",
+  "patreonURL": "https://patreon.com/FouadRaheb",
+  "tintColor": "#5c687f",
+  "featuredApps": [
+    "com.burbn.instagram",
+    "com.fouadraheb.watusi"
+  ],
+  "META": {
+    "repoName": "Fouad's Source",
+    "repoIcon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/icon.png"
+  },
+  "apps": [
+    {
+      "id": "SL-IG-NoPlugins",
+      "name": "Regram",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleID": "com.burbn.instagram",
+      "minOSVersion": "15.1",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is an original version, it has original Instagram bundle ID. You need to delete original Instagram before installing. It has Plugins/Extensions removed so it can be signed with free Apple IDs.\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+      "category": "social",
+      "tintColor": "#ec4b56",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
+      ],
+      "versionDate": "2025-08-29T23:10:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
+      "size": 198916420,
+      "version": "395.0.0",
+      "versions": [
+        {
+          "version": "395.0.0",
+          "date": "2025-08-29T23:10:00+03:00",
+          "localizedDescription": "Regram 1.0.36, Support IG 395",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
+          "size": 198916420,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "392.0.0",
+          "date": "2025-08-10T11:15:00+03:00",
+          "localizedDescription": "Regram 1.0.35, Support IG 392",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.burbn.instagram_392.0.0_regram_1.0.35_no-plugins_sl.ipa",
+          "size": 193012187,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "389.0.0",
+          "date": "2025-07-20T12:15:00+03:00",
+          "localizedDescription": "Regram 1.0.34, Support IG 389",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.burbn.instagram_389.0.0_regram_1.0.34_no-plugins_sl.ipa",
+          "size": 190780972,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "386.0.0",
+          "date": "2025-06-30T20:40:00+03:00",
+          "localizedDescription": "Regram 1.0.33, Support IG 386",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.burbn.instagram_386.0.0_regram_1.0.33_no-plugins_sl.ipa",
+          "size": 190538300,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "384.0.0",
+          "date": "2025-06-12T11:20:00+03:00",
+          "localizedDescription": "Regram 1.0.31, Support IG 384",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.burbn.instagram_384.0.0_regram_1.0.31_no-plugins_sl.ipa",
+          "size": 179874489,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "380.0.0",
+          "date": "2025-05-20T16:50:00+03:00",
+          "localizedDescription": "Regram 1.0.30, Support IG 380",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.burbn.instagram_380.0.0_regram_1.0.30_no-plugins_sl.ipa",
+          "size": 177257118,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "378.0.0",
+          "date": "2025-05-02T01:25:00+03:00",
+          "localizedDescription": "Regram 1.0.29, Support IG 377/378",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_no-plugins_sl.ipa",
+          "size": 208906260,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "376.0.0",
+          "date": "2025-04-17T13:05:00+03:00",
+          "localizedDescription": "Regram 1.0.27, Support IG 376 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.27/com.burbn.instagram_376.0.0_regram_1.0.27_no-plugins_sl.ipa",
+          "size": 164349929,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "374.1.10",
+          "date": "2025-04-05T00:00:00Z",
+          "localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_no-plugins_sl.ipa",
+          "size": 162925748,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      }
+    },
+    {
+      "id": "SL-IG-Duplicate",
+      "name": "Regram (Duplicate)",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regram",
+      "bundleID": "com.fouadraheb.regram",
+      "minOSVersion": "15.1",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram).\n\nRegram is your all-in-one tweak for Instagram. Currently in beta and available only to Patreon subscribers.\nActivate license by connecting your Patren account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+      "category": "social",
+      "tintColor": "#ec4b56",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss2.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss3.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss4.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss5.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss6.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
+      ],
+      "versionDate": "2025-08-29T23:10:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
+      "size": 198916432,
+      "version": "395.0.0",
+      "versions": [
+        {
+          "version": "395.0.0",
+          "date": "2025-08-29T23:10:00+03:00",
+          "localizedDescription": "Regram 1.0.36, Support IG 395",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
+          "size": 198916432,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "392.0.0",
+          "date": "2025-08-10T11:15:00+03:00",
+          "localizedDescription": "Regram 1.0.35, Support IG 392",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.fouadraheb.regram_392.0.0_regram_1.0.35_sl.ipa",
+          "size": 193012198,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "389.0.0",
+          "date": "2025-07-20T12:15:00+03:00",
+          "localizedDescription": "Regram 1.0.34, Support IG 389",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.34/com.fouadraheb.regram_389.0.0_regram_1.0.34_sl.ipa",
+          "size": 190780982,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "386.0.0",
+          "date": "2025-06-30T20:40:00+03:00",
+          "localizedDescription": "Regram 1.0.33, Support IG 386",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.33/com.fouadraheb.regram_386.0.0_regram_1.0.33_sl.ipa",
+          "size": 190538313,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "384.0.0",
+          "date": "2025-06-12T11:20:00+03:00",
+          "localizedDescription": "Regram 1.0.31, Support IG 384",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.fouadraheb.regram_384.0.0_regram_1.0.31_sl.ipa",
+          "size": 179874500,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "380.0.0",
+          "date": "2025-05-20T16:50:00+03:00",
+          "localizedDescription": "Regram 1.0.30, Support IG 380",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.30/com.fouadraheb.regram_380.0.0_regram_1.0.30_sl.ipa",
+          "size": 177257130,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "378.0.0",
+          "date": "2025-05-02T01:25:00+03:00",
+          "localizedDescription": "Regram 1.0.29, Support IG 377/378",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.fouadraheb.regram_378.0.0_regram_1.0.29_sl.ipa",
+          "size": 208906272,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "376.0.0",
+          "date": "2025-04-17T13:05:00+03:00",
+          "localizedDescription": "Regram 1.0.27, Support IG 376 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.27/com.fouadraheb.regram_376.0.0_regram_1.0.27_sl.ipa",
+          "size": 164349941,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "374.1.10",
+          "date": "2025-04-05T00:00:00Z",
+          "localizedDescription": "Regram 1.0.26, Support IG 374 & much more",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.fouadraheb.regram_374.1.10_regram_1.0.26_sl.ipa",
+          "size": 162925759,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      }
+    },
+    {
+      "name": "Watusi",
+      "subtitle": "The all-in-one tweak for WhatsApp Messenger",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is an original version, it has original WhatsApp bundle ID, you need to delete original WhatsApp before installing.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
+      "versionDate": "2025-08-22T14:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsApp_25.22.83_watusi3_1.2.83_sl.ipa",
+      "size": 112077613,
+      "version": "25.22.83",
+      "versions": [
+        {
+          "version": "25.22.83",
+          "date": "2025-08-22T14:32:00+03:00",
+          "localizedDescription": "Support WA 25.22.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsApp_25.22.83_watusi3_1.2.83_sl.ipa",
+          "size": 112077613,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.80",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsApp_25.21.80_watusi3_1.2.80_sl.ipa",
+          "size": 111353453,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.83",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsApp_25.21.83_watusi3_1.2.80_sl.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.20.83",
+          "date": "2025-07-25T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.20.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/net.whatsapp.WhatsApp_25.20.83_watusi3_1.2.78_sl.ipa",
+          "size": 116304585,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.19.83",
+          "date": "2025-07-11T14:52:00+03:00",
+          "localizedDescription": "Support WA 25.19.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/net.whatsapp.WhatsApp_25.19.83_watusi3_1.2.77_sl.ipa",
+          "size": 123825095,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.18.86",
+          "date": "2025-06-30T19:40:00+03:00",
+          "localizedDescription": "Support WA 25.18.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/net.whatsapp.WhatsApp_25.18.86_watusi3_1.2.76_sl.ipa",
+          "size": 122975619,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.17.6",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsApp_25.17.6_watusi3_1.2.74_sl.ipa",
+          "size": 120916837,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.13.77",
+          "date": "2025-05-01T12:35:00+03:00",
+          "localizedDescription": "Support WA 25.13.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
+          "size": 117779554,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.12.73",
+          "date": "2025-04-25T11:30:34+03:00",
+          "localizedDescription": "Support WA 25.12.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/net.whatsapp.WhatsApp_25.12.73_watusi3_1.2.69_sl.ipa",
+          "size": 117142105,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.10.72",
+          "date": "2025-04-09T13:59:34+03:00",
+          "localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/net.whatsapp.WhatsApp_25.10.72_watusi3_1.2.68_sl.ipa",
+          "size": 115086349,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.8.74",
+          "date": "2025-03-31T00:00:00Z",
+          "localizedDescription": "Support WA 25.8.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsApp_25.8.74_watusi3_1.2.67_sl.ipa",
+          "size": 114280255,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "bundleID": "com.fouadraheb.watusi",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.fouadraheb.watusi).",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
+      "versionDate": "2025-08-22T14:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusi_25.22.83_watusi3_1.2.83_sl.ipa",
+      "size": 110755443,
+      "version": "25.22.83",
+      "versions": [
+        {
+          "version": "25.22.83",
+          "date": "2025-08-22T14:32:00+03:00",
+          "localizedDescription": "Support WA 25.22.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusi_25.22.83_watusi3_1.2.83_sl.ipa",
+          "size": 110755443,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.80",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusi_25.21.80_watusi3_1.2.80_sl.ipa",
+          "size": 110051742,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.83",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusi_25.21.83_watusi3_1.2.80_sl.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.20.83",
+          "date": "2025-07-25T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.20.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/com.fouadraheb.watusi_25.20.83_watusi3_1.2.78_sl.ipa",
+          "size": 114964415,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.19.83",
+          "date": "2025-07-11T14:52:00+03:00",
+          "localizedDescription": "Support WA 25.19.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/com.fouadraheb.watusi_25.19.83_watusi3_1.2.77_sl.ipa",
+          "size": 122468538,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.18.86",
+          "date": "2025-06-30T19:40:00+03:00",
+          "localizedDescription": "Support WA 25.18.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/com.fouadraheb.watusi_25.18.86_watusi3_1.2.76_sl.ipa",
+          "size": 121631755,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.17.6",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusi_25.17.6_watusi3_1.2.74_sl.ipa",
+          "size": 119614134,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.13.77",
+          "date": "2025-05-01T12:35:00+03:00",
+          "localizedDescription": "Support WA 25.13.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusi_25.13.77_watusi3_1.2.70_sl.ipa",
+          "size": 116499377,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.12.73",
+          "date": "2025-04-25T11:30:34+03:00",
+          "localizedDescription": "Support WA 25.12.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/com.fouadraheb.watusi_25.12.73_watusi3_1.2.69_sl.ipa",
+          "size": 115868515,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.10.72",
+          "date": "2025-04-09T13:59:34+03:00",
+          "localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/com.fouadraheb.watusi_25.10.72_watusi3_1.2.68_sl.ipa",
+          "size": 113816550,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.8.74",
+          "date": "2025-03-31T00:00:00Z",
+          "localizedDescription": "Support WA 25.8.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusi_25.8.74_watusi3_1.2.67_sl.ipa",
+          "size": 113026352,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Business)",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "bundleID": "net.whatsapp.WhatsAppSMB",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This version has original WhatsApp Business bundle ID.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
+      "versionDate": "2025-08-22T14:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsAppSMB_25.22.79_watusi3_1.2.83_sl.ipa",
+      "size": 118585897,
+      "version": "25.22.79",
+      "versions": [
+        {
+          "version": "25.22.79",
+          "date": "2025-08-22T14:32:00+03:00",
+          "localizedDescription": "Support WA 25.22.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsAppSMB_25.22.79_watusi3_1.2.83_sl.ipa",
+          "size": 118585897,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.80",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsAppSMB_25.21.80_watusi3_1.2.80_sl.ipa",
+          "size": 117711331,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.83",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/net.whatsapp.WhatsAppSMB_25.21.83_watusi3_1.2.80_sl.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.20.83",
+          "date": "2025-07-25T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.20.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/net.whatsapp.WhatsAppSMB_25.20.83_watusi3_1.2.78_sl.ipa",
+          "size": 123001512,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.19.83",
+          "date": "2025-07-11T14:52:00+03:00",
+          "localizedDescription": "Support WA 25.19.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/net.whatsapp.WhatsAppSMB_25.19.83_watusi3_1.2.77_sl.ipa",
+          "size": 131517374,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.18.86",
+          "date": "2025-06-30T19:40:00+03:00",
+          "localizedDescription": "Support WA 25.18.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/net.whatsapp.WhatsAppSMB_25.18.86_watusi3_1.2.76_sl.ipa",
+          "size": 129923767,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.16.81",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/net.whatsapp.WhatsAppSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+          "size": 126665731,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.13.74",
+          "date": "2025-05-01T12:35:00+03:00",
+          "localizedDescription": "Support WA 25.13.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsAppSMB_25.13.74_watusi3_1.2.70_sl.ipa",
+          "size": 124854397,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.12.73",
+          "date": "2025-04-25T11:30:34+03:00",
+          "localizedDescription": "Support WA 25.12.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/net.whatsapp.WhatsAppSMB_25.12.73_watusi3_1.2.69_sl.ipa",
+          "size": 124241048,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.10.72",
+          "date": "2025-04-09T13:59:34+03:00",
+          "localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/net.whatsapp.WhatsAppSMB_25.10.72_watusi3_1.2.68_sl.ipa",
+          "size": 121952108,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.8.74",
+          "date": "2025-03-31T00:00:00Z",
+          "localizedDescription": "Support WA 25.8.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/net.whatsapp.WhatsAppSMB_25.8.74_watusi3_1.2.67_sl.ipa",
+          "size": 121071363,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Business Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "bundleID": "com.fouadraheb.watusiSMB",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
+        }
+      },
+      "versionDate": "2025-08-22T14:32:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusiSMB_25.22.79_watusi3_1.2.83_sl.ipa",
+      "size": 117258172,
+      "version": "25.22.79",
+      "versions": [
+        {
+          "version": "25.22.79",
+          "date": "2025-08-22T14:32:00+03:00",
+          "localizedDescription": "Support WA 25.22.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusiSMB_25.22.79_watusi3_1.2.83_sl.ipa",
+          "size": 117258172,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.80",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusiSMB_25.21.80_watusi3_1.2.80_sl.ipa",
+          "size": 116403987,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.21.83",
+          "date": "2025-08-10T20:28:00+03:00",
+          "localizedDescription": "Support WA 25.21.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.80/com.fouadraheb.watusiSMB_25.21.83_watusi3_1.2.80_sl.ipa",
+          "size": 0,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.20.83",
+          "date": "2025-07-25T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.20.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.78/com.fouadraheb.watusiSMB_25.20.83_watusi3_1.2.78_sl.ipa",
+          "size": 121655856,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.19.83",
+          "date": "2025-07-11T14:52:00+03:00",
+          "localizedDescription": "Support WA 25.19.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.77/com.fouadraheb.watusiSMB_25.19.83_watusi3_1.2.77_sl.ipa",
+          "size": 130155572,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.18.86",
+          "date": "2025-06-30T19:40:00+03:00",
+          "localizedDescription": "Support WA 25.18.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.76/com.fouadraheb.watusiSMB_25.18.86_watusi3_1.2.76_sl.ipa",
+          "size": 128576487,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.16.81",
+          "date": "2025-06-07T10:25:00+03:00",
+          "localizedDescription": "Support WA 25.17.X. Rewrote Stalky's internal database, migration from the previous database is not possible. This change only affects the updates list and about changes, downloaded statuses and profile pictures will remain intact.",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.74/com.fouadraheb.watusiSMB_25.16.81_watusi3_1.2.74_sl.ipa",
+          "size": 125364303,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "25.13.74",
+          "date": "2025-05-01T12:35:00+03:00",
+          "localizedDescription": "Support WA 25.13.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/com.fouadraheb.watusiSMB_25.13.74_watusi3_1.2.70_sl.ipa",
+          "size": 123567133,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.12.73",
+          "date": "2025-04-25T11:30:34+03:00",
+          "localizedDescription": "Support WA 25.12.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.69/com.fouadraheb.watusiSMB_25.12.73_watusi3_1.2.69_sl.ipa",
+          "size": 122966786,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.10.72",
+          "date": "2025-04-09T13:59:34+03:00",
+          "localizedDescription": "Support WA 25.10.X and fixed Stalky updates",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.68/com.fouadraheb.watusiSMB_25.10.72_watusi3_1.2.68_sl.ipa",
+          "size": 120681304,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "25.8.74",
+          "date": "2025-03-31T00:00:00Z",
+          "localizedDescription": "Support WA 25.8.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.67/com.fouadraheb.watusiSMB_25.8.74_watusi3_1.2.67_sl.ipa",
+          "size": 119817051,
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
+  ],
+  "news": []
 }
