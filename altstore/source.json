@@ -35,11 +35,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-08-10T11:15:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.burbn.instagram_392.0.0_regram_1.0.35_no-plugins_sl.ipa",
-      "size": 193012187,
-      "version": "392.0.0",
+      "versionDate": "2025-08-T23:04:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
+      "size": 198916208,
+      "version": "395.0.0",
       "versions": [
+        {
+          "version": "395.0.0",
+          "date": "2025-08-T23:04:00+03:00",
+          "localizedDescription": "Regram 1.0.36, Support IG 395",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
+          "size": 198916208,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "392.0.0",
           "date": "2025-08-10T11:15:00+03:00",
@@ -147,11 +155,19 @@
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss7.png",
         "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ss8.png"
       ],
-      "versionDate": "2025-08-10T11:15:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.35/com.fouadraheb.regram_392.0.0_regram_1.0.35_sl.ipa",
-      "size": 193012198,
-      "version": "392.0.0",
+      "versionDate": "2025-08-T23:04:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
+      "size": 198916220,
+      "version": "395.0.0",
       "versions": [
+        {
+          "version": "395.0.0",
+          "date": "2025-08-T23:04:00+03:00",
+          "localizedDescription": "Regram 1.0.36, Support IG 395",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
+          "size": 198916220,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "392.0.0",
           "date": "2025-08-10T11:15:00+03:00",
