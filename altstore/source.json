@@ -43,7 +43,7 @@
       ],
       "versionDate": "2025-08-28T23:10:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
-      "size": 198916420,
+      "size": 198923318,
       "version": "395.0.0",
       "versions": [
         {
@@ -51,7 +51,7 @@
           "date": "2025-08-28T23:10:00+03:00",
           "localizedDescription": "Regram 1.0.36, Support IG 395",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.burbn.instagram_395.0.0_regram_1.0.36_no-plugins_sl.ipa",
-          "size": 198916420,
+          "size": 198923318,
           "minOSVersion": "15.1"
         },
         {
@@ -165,7 +165,7 @@
       ],
       "versionDate": "2025-08-28T23:10:00+03:00",
       "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
-      "size": 198916432,
+      "size": 198923330,
       "version": "395.0.0",
       "versions": [
         {
@@ -173,7 +173,7 @@
           "date": "2025-08-28T23:10:00+03:00",
           "localizedDescription": "Regram 1.0.36, Support IG 395",
           "downloadURL": "https://cdn.fouadraheb.com/ipas/regram/1.0.36/com.fouadraheb.regram_395.0.0_regram_1.0.36_sl.ipa",
-          "size": 198916432,
+          "size": 198923330,
           "minOSVersion": "15.1"
         },
         {
@@ -300,11 +300,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-08-22T14:32:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsApp_25.22.83_watusi3_1.2.83_sl.ipa",
-      "size": 112077613,
-      "version": "25.22.83",
+      "versionDate": "2025-09-04T17:16:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/net.whatsapp.WhatsApp_25.23.82_watusi3_1.2.85_sl.ipa",
+      "size": 113303686,
+      "version": "25.23.82",
       "versions": [
+        {
+          "version": "25.23.82",
+          "date": "2025-09-04T17:16:00+03:00",
+          "localizedDescription": "Support WA 25.23.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/net.whatsapp.WhatsApp_25.23.82_watusi3_1.2.85_sl.ipa",
+          "size": 113303686,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.22.83",
           "date": "2025-08-22T14:32:00+03:00",
@@ -433,11 +441,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-08-22T14:32:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusi_25.22.83_watusi3_1.2.83_sl.ipa",
-      "size": 110755443,
-      "version": "25.22.83",
+      "versionDate": "2025-09-04T17:16:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/com.fouadraheb.watusi_25.23.82_watusi3_1.2.85_sl.ipa",
+      "size": 107853403,
+      "version": "25.23.82",
       "versions": [
+        {
+          "version": "25.23.82",
+          "date": "2025-09-04T17:16:00+03:00",
+          "localizedDescription": "Support WA 25.23.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/com.fouadraheb.watusi_25.23.82_watusi3_1.2.85_sl.ipa",
+          "size": 107853403,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.22.83",
           "date": "2025-08-22T14:32:00+03:00",
@@ -566,11 +582,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-08-22T14:32:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/net.whatsapp.WhatsAppSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-      "size": 118585897,
-      "version": "25.22.79",
+      "versionDate": "2025-09-04T17:16:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/net.whatsapp.WhatsAppSMB_25.23.82_watusi3_1.2.85_sl.ipa",
+      "size": 120157061,
+      "version": "25.23.82",
       "versions": [
+        {
+          "version": "25.23.82",
+          "date": "2025-09-04T17:16:00+03:00",
+          "localizedDescription": "Support WA 25.23.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/net.whatsapp.WhatsAppSMB_25.23.82_watusi3_1.2.85_sl.ipa",
+          "size": 120157061,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.22.79",
           "date": "2025-08-22T14:32:00+03:00",
@@ -699,11 +723,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-08-22T14:32:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.83/com.fouadraheb.watusiSMB_25.22.79_watusi3_1.2.83_sl.ipa",
-      "size": 117258172,
-      "version": "25.22.79",
+      "versionDate": "2025-09-04T17:16:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/com.fouadraheb.watusiSMB_25.23.82_watusi3_1.2.85_sl.ipa",
+      "size": 114701174,
+      "version": "25.23.82",
       "versions": [
+        {
+          "version": "25.23.82",
+          "date": "2025-09-04T17:16:00+03:00",
+          "localizedDescription": "Support WA 25.23.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.85/com.fouadraheb.watusiSMB_25.23.82_watusi3_1.2.85_sl.ipa",
+          "size": 114701174,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.22.79",
           "date": "2025-08-22T14:32:00+03:00",
