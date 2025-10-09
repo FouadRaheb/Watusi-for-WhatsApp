@@ -332,11 +332,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-10-06T18:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.89/net.whatsapp.WhatsApp_25.27.74_watusi3_1.2.89_sl.ipa",
-      "size": 117175895,
-      "version": "25.27.74",
+      "versionDate": "2025-10-09T10:02:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/net.whatsapp.WhatsApp_25.28.75_watusi3_1.2.90_sl.ipa",
+      "size": 117961784,
+      "version": "25.28.75",
       "versions": [
+        {
+          "version": "25.28.75",
+          "date": "2025-10-09T10:02:00+03:00",
+          "localizedDescription": "Support WA 25.28.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/net.whatsapp.WhatsApp_25.28.75_watusi3_1.2.90_sl.ipa",
+          "size": 117961784,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.27.74",
           "date": "2025-10-06T18:35:00+03:00",
@@ -497,11 +505,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-10-06T18:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.89/com.fouadraheb.watusi_25.27.74_watusi3_1.2.89_sl.ipa",
-      "size": 115716145,
-      "version": "25.27.74",
+      "versionDate": "2025-10-09T10:02:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/com.fouadraheb.watusi_25.28.75_watusi3_1.2.90_sl.ipa",
+      "size": 116493354,
+      "version": "25.28.75",
       "versions": [
+        {
+          "version": "25.28.75",
+          "date": "2025-10-09T10:02:00+03:00",
+          "localizedDescription": "Support WA 25.28.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/com.fouadraheb.watusi_25.28.75_watusi3_1.2.90_sl.ipa",
+          "size": 116493354,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.27.74",
           "date": "2025-10-06T18:35:00+03:00",
@@ -662,11 +678,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-10-06T18:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.89/net.whatsapp.WhatsAppSMB_25.27.74_watusi3_1.2.89_sl.ipa",
-      "size": 125383050,
-      "version": "25.27.74",
+      "versionDate": "2025-10-09T10:02:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/net.whatsapp.WhatsAppSMB_25.28.75_watusi3_1.2.90_sl.ipa",
+      "size": 126135944,
+      "version": "25.28.75",
       "versions": [
+        {
+          "version": "25.28.75",
+          "date": "2025-10-09T10:02:00+03:00",
+          "localizedDescription": "Support WA 25.28.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/net.whatsapp.WhatsAppSMB_25.28.75_watusi3_1.2.90_sl.ipa",
+          "size": 126135944,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.27.74",
           "date": "2025-10-06T18:35:00+03:00",
@@ -819,11 +843,19 @@
           "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks."
         }
       },
-      "versionDate": "2025-10-06T18:35:00+03:00",
-      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.89/com.fouadraheb.watusiSMB_25.27.74_watusi3_1.2.89_sl.ipa",
-      "size": 123971588,
-      "version": "25.27.74",
+      "versionDate": "2025-10-09T10:02:00+03:00",
+      "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/com.fouadraheb.watusiSMB_25.28.75_watusi3_1.2.90_sl.ipa",
+      "size": 124715764,
+      "version": "25.28.75",
       "versions": [
+        {
+          "version": "25.28.75",
+          "date": "2025-10-09T10:02:00+03:00",
+          "localizedDescription": "Support WA 25.28.X",
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.90/com.fouadraheb.watusiSMB_25.28.75_watusi3_1.2.90_sl.ipa",
+          "size": 124715764,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "25.27.74",
           "date": "2025-10-06T18:35:00+03:00",
