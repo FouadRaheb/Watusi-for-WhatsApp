@@ -152,7 +152,8 @@
           "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
           "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar."
         }
       }
     },
@@ -290,7 +291,8 @@
           "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
           "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar."
         }
       }
     },
