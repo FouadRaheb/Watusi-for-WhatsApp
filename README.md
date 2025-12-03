@@ -53,7 +53,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
-* (Option 2) You can use a signing certificate to download the latest Watusi directly to your device and keep it valid for 1 year instead of just 7 days.<br/>[Flekstore][flekstore-link] is one of the most reliable options for sideloading, you can add our sideloading source (https://altstore.fouadraheb.com) to it to download the apps directly.
+* (Option 2) You can use a signing certificate to download the latest Watusi directly to your device and keep it valid for 1 year instead of just 7 days.<br/>[Flekstore][flekstore-link] is one of the most reliable options for sideloading, you can add our sideloading source (https://source.fouadraheb.com) to it to download the apps directly.
 
 ### Sideloading (TrollStore)
 * If you are on <b>iOS 14 - 16.6.1</b> (iPhone X - A11 and older) or <b>iOS 14 - 16.6 beta 1</b> (iPhone 11 and newer), install with TrollStore to receive push notifications and use iCloud features:
@@ -100,7 +100,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 * Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose the original IPA or com.fouadraheb.watusi for the duplicate)
 
-* If you have AltStore Beta, you can add our AltStore source (https://altstore.fouadraheb.com) and download apps directly from AltStore.
+* If you have AltStore Beta, you can add our AltStore source (https://source.fouadraheb.com) and download apps directly from AltStore.
 
 * If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
 </details>
