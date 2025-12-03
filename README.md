@@ -1,12 +1,12 @@
-[SL-WA]: https://fouadraheb.com/dl/storage/ipa/1764762105230-mdy5l/net.whatsapp.WhatsApp_25.35.72.ipa
-[SL-SMB]: https://fouadraheb.com/dl/storage/ipa/1764762105230-cnrrg/net.whatsapp.WhatsAppSMB_25.35.72.ipa
-[SL-WA-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764762105230-vw8vp/com.fouadraheb.watusi_25.35.72.ipa
-[SL-SMB-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764762105229-xc2e3/com.fouadraheb.watusiSMB_25.35.72.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1764773895639-5m18t/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764773895638-etctp/com.fouadraheb.watusi_25.35.72_watusi3_1.2.98_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1764773895638-xedla/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764773895638-hglqb/com.fouadraheb.watusiSMB_25.35.72_watusi3_1.2.98_sl.ipa
 
-[TS-WA]: https://fouadraheb.com/dl/storage/ipa/1764771474387-3kkre/net.whatsapp.WhatsApp_25.35.72.ipa
-[TS-SMB]: https://fouadraheb.com/dl/storage/ipa/1764762105229-dpywt/net.whatsapp.WhatsAppSMB_25.35.72.ipa
-[TS-WA-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764762105228-t2k5i/net.whatsapp.WhatsApp_25.35.72.ipa
-[TS-SMB-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764762105224-b4rva/net.whatsapp.WhatsAppSMB_25.35.72.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1764773895638-neb6a/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1764773895637-47t9n/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764773895636-y1i4a/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_sl_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764773895631-jbtn6/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_sl_noplugs.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
