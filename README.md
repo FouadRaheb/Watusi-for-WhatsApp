@@ -112,7 +112,7 @@ Since WhatsApp added the option to link a device on mobile, you can now use the 
 
 * Install and activate original WhatsApp from the AppStore
 * Download and install [duplicated Watusi IPA](#sideloading-no-jailbreak) from the table above.
-* Enable Watusi's `Local Notifications` feature on your duplicate to keep the app active while linking.
+* We need to enable Watusi's `Local Notifications` feature on your duplicate to keep the app active while linking.
   * Open duplicated Watusi, from the welcome screen, tap 3 times on the animated image and select `Watusi` preferences, go to the `Notifications` section and activate `Enable Local Notifications`, and set it to `Audio` (If `Audio` doesn't work, try `Location` instead).
 * Move back to the welcome screen, tap `Agree and Continue`, and click on `Link this device` to get the QR Code. Screenshot this code and send it to another device. (Keep Watusi open in background)
 * Switch to your original WhatsApp
