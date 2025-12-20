@@ -1,12 +1,11 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1764773895639-5m18t/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764773895638-etctp/com.fouadraheb.watusi_25.35.72_watusi3_1.2.98_sl.ipa
-[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1764773895638-xedla/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_sl.ipa
-[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1764773895638-hglqb/com.fouadraheb.watusiSMB_25.35.72_watusi3_1.2.98_sl.ipa
-
-[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1764773895638-neb6a/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_ts.ipa
-[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1764773895637-47t9n/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_ts.ipa
-[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764773895636-y1i4a/net.whatsapp.WhatsApp_25.35.72_watusi3_1.2.98_sl_noplugs.ipa
-[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1764773895631-jbtn6/net.whatsapp.WhatsAppSMB_25.35.72_watusi3_1.2.98_sl_noplugs.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1766221453896-7tmmu/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1766221453896-gxetl/com.fouadraheb.watusi_25.37.76_watusi3_1.2.100_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1766221453895-f40fk/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.2.100_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1766221453895-fjabq/com.fouadraheb.watusiSMB_25.37.76_watusi3_1.2.100_sl.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1766221453895-57tdw/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1766221453894-kxc6f/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.2.100_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1766221453894-rw744/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_ts_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1766221453890-f3wvw/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.2.100_ts_noplugs.ipa
 
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
