@@ -1,5 +1,5 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1766221453896-7tmmu/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1766221453896-gxetl/com.fouadraheb.watusi_25.37.76_watusi3_1.2.100_sl.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1766320032329-vq16l/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1766320032332-l0dkw/com.fouadraheb.watusi_25.37.76_watusi3_1.2.100_sl.ipa
 [SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1766221453895-f40fk/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.2.100_sl.ipa
 [SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1766221453895-fjabq/com.fouadraheb.watusiSMB_25.37.76_watusi3_1.2.100_sl.ipa
 [WA-TS]: https://fouadraheb.com/dl/storage/ipa/1766221453895-57tdw/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_ts.ipa
