@@ -1,4 +1,3 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1766320032329-vq16l/net.whatsapp.WhatsApp_25.37.76_watusi3_1.2.100_sl.ipa
 [WA-SL]: https://fouadraheb.com/dl/storage/ipa/1768072219005-lch7d/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_sl.ipa
 [WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1768072219005-a4u45/com.fouadraheb.watusi_25.37.76_watusi3_1.3.1_sl.ipa
 [SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1768072219005-z8ko8/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_sl.ipa
