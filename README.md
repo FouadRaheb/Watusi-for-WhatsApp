@@ -1,11 +1,11 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1768072219005-lch7d/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1768072219005-a4u45/com.fouadraheb.watusi_25.37.76_watusi3_1.3.1_sl.ipa
-[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1768072219005-z8ko8/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_sl.ipa
-[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1768072219004-mvan2/com.fouadraheb.watusiSMB_25.37.76_watusi3_1.3.1_sl.ipa
-[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1768072219004-4m4ok/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_ts.ipa
-[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1768072219004-g97kd/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_ts.ipa
-[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1768072219003-jqpkp/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_ts_noplugs.ipa
-[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1768072219000-jsa0k/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_ts_noplugs.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1768147037295-5m3b6/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1768147037295-mo87f/com.fouadraheb.watusi_25.37.76_watusi3_1.3.1_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1768147037295-kai2b/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1768147037295-7hc8t/com.fouadraheb.watusiSMB_25.37.76_watusi3_1.3.1_sl.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1768147037295-rgvnw/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1768147037294-ujjhs/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1768147037294-yrt5s/net.whatsapp.WhatsApp_25.37.76_watusi3_1.3.1_ts_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1768147037291-2my0i/net.whatsapp.WhatsAppSMB_25.37.76_watusi3_1.3.1_ts_noplugs.ipa
 
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
