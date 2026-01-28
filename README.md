@@ -6,8 +6,8 @@
 [SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1769431685463-g2tqe/net.whatsapp.WhatsAppSMB_26.2.74_watusi3_1.3.3_ts.ipa
 [WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1769431685463-c968r/net.whatsapp.WhatsApp_26.2.74_watusi3_1.3.3_ts_noplugs.ipa
 [SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1769431685463-vpuip/net.whatsapp.WhatsAppSMB_26.2.74_watusi3_1.3.3_ts_noplugs.ipa
-[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1769431685462-k2778/com.fouadraheb.watusi_26.2.74_watusi3_1.3.3_sl.ipa
-[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1769431685462-fiad7/com.fouadraheb.watusiSMB_26.2.74_watusi3_1.3.3_sl.ipa
+[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1769538282089-wautg/com.fouadraheb.watusi_26.2.74_watusi3_1.3.3_ts.ipa
+[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1769538183010-8k9ri/com.fouadraheb.watusiSMB_26.2.74_watusi3_1.3.3_ts.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
