@@ -1,13 +1,13 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1770723541487-7sekj/net.whatsapp.WhatsApp_26.5.76_watusi3_1.3.4_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1770723541486-wdfqw/com.fouadraheb.watusi_26.5.76_watusi3_1.3.4_sl.ipa
-[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1770723541486-3o2qh/net.whatsapp.WhatsAppSMB_26.5.76_watusi3_1.3.4_sl.ipa
-[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1770723541486-idx25/com.fouadraheb.watusiSMB_26.5.76_watusi3_1.3.4_sl.ipa
-[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1770723541486-wt43k/net.whatsapp.WhatsApp_26.5.76_watusi3_1.3.4_ts.ipa
-[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1770723541486-hop19/net.whatsapp.WhatsAppSMB_26.5.76_watusi3_1.3.4_ts.ipa
-[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1770723541485-l38wf/net.whatsapp.WhatsApp_26.5.76_watusi3_1.3.4_ts_noplugs.ipa
-[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1770723541485-xnl3g/net.whatsapp.WhatsAppSMB_26.5.76_watusi3_1.3.4_ts_noplugs.ipa
-[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1770723541485-780ox/com.fouadraheb.watusi_26.5.76_watusi3_1.3.4_ts.ipa
-[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1770723541483-hgttf/com.fouadraheb.watusiSMB_26.5.76_watusi3_1.3.4_ts.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1772086871948-zlu2j/net.whatsapp.WhatsApp_26.7.74_watusi3_1.3.5_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1772086871948-oa2c5/com.fouadraheb.watusi_26.7.74_watusi3_1.3.5_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1772086871947-7i4zh/net.whatsapp.WhatsAppSMB_26.7.74_watusi3_1.3.5_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1772086871947-qtf2r/com.fouadraheb.watusiSMB_26.7.74_watusi3_1.3.5_sl.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1772086871947-cy7kc/net.whatsapp.WhatsApp_26.7.74_watusi3_1.3.5_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1772086871947-dgdqj/net.whatsapp.WhatsAppSMB_26.7.74_watusi3_1.3.5_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1772086871946-dsmzw/net.whatsapp.WhatsApp_26.7.74_watusi3_1.3.5_ts_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1772086871946-ix8yp/net.whatsapp.WhatsAppSMB_26.7.74_watusi3_1.3.5_ts_noplugs.ipa
+[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1772086871946-04rz4/com.fouadraheb.watusi_26.7.74_watusi3_1.3.5_ts.ipa
+[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1772086871945-lor5i/com.fouadraheb.watusiSMB_26.7.74_watusi3_1.3.5_ts.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
