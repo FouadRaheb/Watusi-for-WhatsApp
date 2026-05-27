@@ -46,10 +46,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.20.72 | 1.3.13 |
-    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.20.72 | 1.3.13 |
-    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.20.72 | 1.3.13 |
-    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.20.72 | 1.3.13 |
+    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.20.72 | 1.3.14 |
+    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.20.72 | 1.3.14 |
+    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.20.72 | 1.3.14 |
+    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.20.72 | 1.3.14 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
