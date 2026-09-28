@@ -87,24 +87,19 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 <details>
 <summary><h2>Sideloading with AltStore</h2></summary>
 
-### Requirements
+### Install AltStore
 
-1. A computer running macOS or Windows
-2. Internet connection
-3. Apple ID (email & password)
-4. If you are on iOS 16, you may need to enable Developer Mode. (Settings > Privacy & Security > Developer Mode)
+Follow the official guide for your computer:
+* [Install AltStore on Windows](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
+* [Install AltStore on macOS](https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos)
 
-### AltStore
-
-* Download and install AltServer from [here](https://altstore.io)
-
-* Right-click on the AltServer icon with your phone connected and choose "Install AltStore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
+### Install Watusi
 
 * Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose the original IPA or com.fouadraheb.watusi for the duplicate)
 
 * If you have AltStore Beta, you can add our AltStore source (https://source.fouadraheb.com) and download apps directly from AltStore.
 
-* If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
+* If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file.
 </details>
 
 <details>
@@ -156,7 +151,6 @@ You can check Watusi's release notes from [this page][changelogs-link].<br/>
 Some versions are first released for Jailbroken devices and later for Sideloading.
 
 ## FAQ
-* If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
 * Signing the app with a non-developer account will have it expire in 7 days, but AltStore automates re-signing as long as it is connected to your PC.
 * The app will not receive Push Notifications and you won't be able to use iCloud features (Except for TrollStore on supported devices).
 
