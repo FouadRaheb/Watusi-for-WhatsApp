@@ -1,13 +1,13 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1790498201795-mz0m0/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790498201795-nr5ug/com.fouadraheb.watusi_26.37.76_watusi3_1.3.25_sl.ipa
-[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1790498201795-1sado/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_sl.ipa
-[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790498201794-cpbzq/com.fouadraheb.watusiSMB_26.37.76_watusi3_1.3.25_sl.ipa
-[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1790498201794-1nkil/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_ts.ipa
-[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1790498201794-lurun/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_ts.ipa
-[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1790498201794-yyfz7/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_ts_noplugs.ipa
-[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1790498201793-45gh3/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_ts_noplugs.ipa
-[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790498201793-ne8t7/com.fouadraheb.watusi_26.37.76_watusi3_1.3.25_ts.ipa
-[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790498201791-hwe7i/com.fouadraheb.watusiSMB_26.37.76_watusi3_1.3.25_ts.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1790803804508-wz7w3/net.whatsapp.WhatsApp_26.38.74_watusi3_1.3.26_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790803804508-0ywta/com.fouadraheb.watusi_26.38.74_watusi3_1.3.26_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1790803804507-ixhbd/net.whatsapp.WhatsAppSMB_26.38.74_watusi3_1.3.26_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790803804507-s1n5i/com.fouadraheb.watusiSMB_26.38.74_watusi3_1.3.26_sl.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1790803804507-j8v2k/net.whatsapp.WhatsApp_26.38.74_watusi3_1.3.26_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1790803804507-60ihd/net.whatsapp.WhatsAppSMB_26.38.74_watusi3_1.3.26_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1790803804507-xbjox/net.whatsapp.WhatsApp_26.38.74_watusi3_1.3.26_ts_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1790803804506-pf7n6/net.whatsapp.WhatsAppSMB_26.38.74_watusi3_1.3.26_ts_noplugs.ipa
+[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790803804506-4a2mb/com.fouadraheb.watusi_26.38.74_watusi3_1.3.26_ts.ipa
+[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790803804503-p1ql2/com.fouadraheb.watusiSMB_26.38.74_watusi3_1.3.26_ts.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -46,10 +46,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.37.76 | 1.3.25 |
-    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.37.76 | 1.3.25 |
-    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.37.76 | 1.3.25 |
-    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.37.76 | 1.3.25 |
+    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.38.74 | 1.3.26 |
+    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.38.74 | 1.3.26 |
+    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.38.74 | 1.3.26 |
+    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.38.74 | 1.3.26 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -68,18 +68,18 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-TS] | net.whatsapp.WhatsApp | 26.37.76 | 1.3.25 |
-    | [WA Business][SMB-TS] | net.whatsapp.WhatsAppSMB | 26.37.76 | 1.3.25 |
-    | [WhatsApp Duplicate][WA-TS-Duplicate] | com.fouadraheb.watusi | 26.37.76 | 1.3.25 |
-    | [WA Business Duplicate][SMB-TS-Duplicate] | com.fouadraheb.watusiSMB | 26.37.76 | 1.3.25 |
+    | [WhatsApp][WA-TS] | net.whatsapp.WhatsApp | 26.38.74 | 1.3.26 |
+    | [WA Business][SMB-TS] | net.whatsapp.WhatsAppSMB | 26.38.74 | 1.3.26 |
+    | [WhatsApp Duplicate][WA-TS-Duplicate] | com.fouadraheb.watusi | 26.38.74 | 1.3.26 |
+    | [WA Business Duplicate][SMB-TS-Duplicate] | com.fouadraheb.watusiSMB | 26.38.74 | 1.3.26 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
     If you have issues with notifications, try using the below TrollStore IPAs that doesn't inject into WhatsApp extensions. This issue used to happen a few years ago on jailbroken devices (I wrote [this blog](https://blog.fouadraheb.com/posts/service-extension-notifications/#how-they-are-related) post about it back then)
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-TS-NoPlugins] | net.whatsapp.WhatsApp | 26.37.76 | 1.3.25 |
-    | [WA Business][SMB-TS-NoPlugins] | net.whatsapp.WhatsAppSMB | 26.37.76 | 1.3.25 |
+    | [WhatsApp][WA-TS-NoPlugins] | net.whatsapp.WhatsApp | 26.38.74 | 1.3.26 |
+    | [WA Business][SMB-TS-NoPlugins] | net.whatsapp.WhatsAppSMB | 26.38.74 | 1.3.26 |
     
 
 ## Sideloading Guides
@@ -87,19 +87,24 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 <details>
 <summary><h2>Sideloading with AltStore</h2></summary>
 
-### Install AltStore
+### Requirements
 
-Follow the official guide for your computer:
-* [Install AltStore on Windows](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
-* [Install AltStore on macOS](https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos)
+1. A computer running macOS or Windows
+2. Internet connection
+3. Apple ID (email & password)
+4. If you are on iOS 16, you may need to enable Developer Mode. (Settings > Privacy & Security > Developer Mode)
 
-### Install Watusi
+### AltStore
+
+* Download and install AltServer from [here](https://altstore.io)
+
+* Right-click on the AltServer icon with your phone connected and choose "Install AltStore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
 
 * Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose the original IPA or com.fouadraheb.watusi for the duplicate)
 
 * If you have AltStore Beta, you can add our AltStore source (https://source.fouadraheb.com) and download apps directly from AltStore.
 
-* If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file.
+* If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
 </details>
 
 <details>
@@ -151,6 +156,7 @@ You can check Watusi's release notes from [this page][changelogs-link].<br/>
 Some versions are first released for Jailbroken devices and later for Sideloading.
 
 ## FAQ
+* If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
 * Signing the app with a non-developer account will have it expire in 7 days, but AltStore automates re-signing as long as it is connected to your PC.
 * The app will not receive Push Notifications and you won't be able to use iCloud features (Except for TrollStore on supported devices).
 
