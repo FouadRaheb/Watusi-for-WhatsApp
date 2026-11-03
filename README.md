@@ -1,13 +1,13 @@
-[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa
-[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa
-[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa
-[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa
-[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1793613547741-azt6i/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_ts.ipa
-[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1793613547741-qqqiq/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_ts.ipa
-[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1793613547741-odyjt/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_ts_noplugs.ipa
-[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1793613547741-r2dvd/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_ts_noplugs.ipa
-[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793613547740-8alb1/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_ts.ipa
-[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793613547738-gtw33/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_ts.ipa
+[WA-SL]: https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa
+[WA-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa
+[SMB-SL]: https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa
+[SMB-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa
+[WA-TS]: https://fouadraheb.com/dl/storage/ipa/1793703806340-yncmr/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_ts.ipa
+[SMB-TS]: https://fouadraheb.com/dl/storage/ipa/1793703806340-fhowv/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_ts.ipa
+[WA-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1793703806340-rnhly/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_ts_noplugs.ipa
+[SMB-TS-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1793703806340-v9jnp/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_ts_noplugs.ipa
+[WA-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793703806339-iytk2/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_ts.ipa
+[SMB-TS-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1793703806339-pdbi6/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_ts.ipa
 
 [builds-io-watusi]: https://builds.io/apps/watusi/?aid=1025553
 [builds-io-watusi-duplicate]: https://builds.io/apps/duplicatewhatsappwatusi/?aid=1025553
@@ -46,10 +46,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPA files have `Plugins` folder deleted and include some fixes to avoid WhatsApp crashing when not signed with proper entitlements and a developer account.</sub>
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.29 |
-    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.42.77 | 1.3.29 |
-    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.29 |
-    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.42.77 | 1.3.29 |
+    | [WhatsApp][WA-SL] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.30 |
+    | [WhatsApp Duplicate][WA-SL-Duplicate] | com.fouadraheb.watusi | 26.42.77 | 1.3.30 |
+    | [WA Business][SMB-SL] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.30 |
+    | [WA Business Duplicate][SMB-SL-Duplicate] | com.fouadraheb.watusiSMB | 26.42.77 | 1.3.30 |
 
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
     
@@ -68,18 +68,18 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     <sub>The following IPAs binary and plugins are fake-signed with their original entitlements. They do not include any fixes for WhatsApp, so THEY WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.</sub>
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-TS] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.29 |
-    | [WA Business][SMB-TS] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.29 |
-    | [WhatsApp Duplicate][WA-TS-Duplicate] | com.fouadraheb.watusi | 26.42.77 | 1.3.29 |
-    | [WA Business Duplicate][SMB-TS-Duplicate] | com.fouadraheb.watusiSMB | 26.42.77 | 1.3.29 |
+    | [WhatsApp][WA-TS] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.30 |
+    | [WA Business][SMB-TS] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.30 |
+    | [WhatsApp Duplicate][WA-TS-Duplicate] | com.fouadraheb.watusi | 26.42.77 | 1.3.30 |
+    | [WA Business Duplicate][SMB-TS-Duplicate] | com.fouadraheb.watusiSMB | 26.42.77 | 1.3.30 |
     
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
     If you have issues with notifications, try using the below TrollStore IPAs that doesn't inject into WhatsApp extensions. This issue used to happen a few years ago on jailbroken devices (I wrote [this blog](https://blog.fouadraheb.com/posts/service-extension-notifications/#how-they-are-related) post about it back then)
     | Application | Bundle | Version | Watusi 3 |
     | ------------------ |:---------:|:------:|:------:|
-    | [WhatsApp][WA-TS-NoPlugins] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.29 |
-    | [WA Business][SMB-TS-NoPlugins] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.29 |
+    | [WhatsApp][WA-TS-NoPlugins] | net.whatsapp.WhatsApp | 26.42.77 | 1.3.30 |
+    | [WA Business][SMB-TS-NoPlugins] | net.whatsapp.WhatsAppSMB | 26.42.77 | 1.3.30 |
     
 
 ## Sideloading Guides
