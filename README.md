@@ -18,17 +18,31 @@
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3/changelogs
 
 <p align="center">
-<a href="https://patreon.com/FouadRaheb">
-<img align="center" src="images/regram.png">
+<a href="https://fouadraheb.com/watusi-release">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/banner-watusi-dark.svg">
+<img src="images/banner-watusi-light.svg" width="100%" alt="The new Watusi is here. 12 years of Watusi, rebuilt from the ground up. See what’s new at fouadraheb.com/watusi-release">
+</picture>
 </a>
 </p>
-
 
 <h1 align="center">
 Watusi for WhatsApp
 </h1>
 <p align="center">
 The all-in-one tweak for WhatsApp Messenger!
+</p>
+
+> [!TIP]
+> The downloads below are for Watusi 3. **The new Watusi** is out, and Watusi 3 owners get a free trial: **[see what's new →](https://fouadraheb.com/watusi-release)**
+
+<p align="center">
+<a href="https://fouadraheb.com/apps/regram">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/banner-regram-dark.svg">
+<img src="images/banner-regram-light.svg" width="100%" alt="Regram for Instagram. Instagram, on your terms.">
+</picture>
+</a>
 </p>
 
 # How to install Watusi
